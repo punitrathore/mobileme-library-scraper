@@ -1,0 +1,14 @@
+# mobileme-library-scraper
+
+Edit src/mobileme_library_scraper/core.clj to change the path.
+
+change "urls" to point to the library you want.
+
+The books fetched are stored in the root directory, in the file "books.csv"
+
+
+## License
+
+Copyright Punit Rathore (C) 2010
+
+Distributed under the Eclipse Public License, the same as Clojure.

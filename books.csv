@@ -1,0 +1,272 @@
+Title, Author(s)
+ABCL: An Object-Oriented Concurrent System, Akinori Yonezawa  
+ACTORS: A Model of Concurrent Computation in Distributed Systems, Gul Agha  
+AI Algorithms  Data Structures  and Idioms in Prolog  Lisp  and Java, George F. Luger  William A Stubblefield  
+AI Application Programming, M. Tim Jones  
+ANSI Common LISP, Paul Graham  
+ARTIFICIAL INTELLIGENCE: A MODERN APPROACH, Russel  Norvig  
+Agile Database Techniques: Effective Strategies for the Agile Software Developer, Scott Ambler  
+Agile Project Management with Scrum, Ken Schwaber  
+Agile Software Development, Alistair Cockburn  
+Agile Software Development with Scrum, Ken Schwaber  Mike Beedle  
+Agile Software Development  Principles  Patterns  and Practices, Robert C. Martin  
+Algorithmic Skeletons: Structural Management of Parallel Computation, Murray I. Cole  
+Algorithms of the Intelligent Web, Haralambos Marmanis  Dmitry Babenko  
+Analysis Patterns: Reusable Object Models, Martin Fowler  
+Anatomy of Lisp, John Allen  
+The Architecture of Symbolic Computers, Peter M. Kogge  
+Armchair Universe, A.K. Dewdney  
+The Art and Science of Smalltalk, Simon Lewis  
+The Art of Computer Systems Performance Analysis: Techniques for Experimental Design  Measurement  Simulation  and Modeling, R. K. Jain  
+The Art of Human-Computer Interface Design, Brenda Laurel  
+The Art of Multiprocessor Programming, Maurice Herlihy  Nir Shavit  
+The Art of Project Management, Scott Berkun  
+The Art of the Metaobject Protocol, Gregor Kiczales  Jim des Rivieres  Daniel G. Bobrow  
+Artificial Experts: Social Knowledge and Intelligent Machines, H. M. Collins  
+Artificial Intelligence, Elaine Rich  
+Artificial Intelligence, Elaine Rich  Kevin Knight  
+Artificial Intelligence, Christopher Thornton  
+Artificial Intelligence, Winston  
+The Artificial Intelligence Handbook: Business Applications, Joel G. Siegel  Jae K. Shim  
+Artificial Intelligence Illuminated, Ben Coppin  
+Artificial Intelligence Programming, Eugene Charniak  Christopher K. Riesbeck  Drew V. McDermott  James R. Meehan  
+Artificial Intelligence and Natural Man  Second Edition, Margaret A. Boden  
+Artificial Intelligence: A Guide to Intelligent Systems, Michael Negnevitsky  
+Artificial Intelligence: Concepts  Techniques  and Applications, Yoshiaki Shirai  J. Tsujii  
+Artificial Intelligence: Structures and Strategies for Complex Problem Solving, George F. Luger  
+Artificial Intelligence: Tools  Techniques and Applications, Tim O'Shea  M. Eistenstadt  
+Artificial Life II, Christopher G. Langton  Charles Taylor  J. Doyne Farmer  Steen Rasmussen  
+Artificial Life III, Christopher G. Langton  
+Artificial Life: An Overview, Christopher G. Langton  
+Automatic Natural Language Parsing, Karen Sparck Jones  Yorick Wilks  
+Beautiful Code: Leading Programmers Explain How They Think, Andy Oram  Greg Wilson  
+The Best Software Writing I: Selected and Introduced by Joel Spolsky, Joel Spolsky  
+Beyond Chaos: The Expert Edge in Managing Software Development, Larry L. Constantine  
+Beyond Software Architecture: Creating and Sustaining Winning Solutions, Luke Hohmann  
+Blondie24: Playing at the Edge of AI, David B. Fogel  
+Build Your Own Expert System, Chris Naylor  
+Building Parsers With Java, Steven John Metsker  
+Building Problem Solvers, Kenneth D. Forbus  Johan de Kleer  
+Building Scalable Web Sites: Building  Scaling  and Optimizing the Next Generation of Web Applications, Cal Henderson  
+Capacity Planning for Web Services: Metrics  Models  and Methods, Daniel A. Menasce  Virgilio A.F. Almeida  
+Causality: Models  Reasoning  and Inference, Judea Pearl  
+Clause and Effect: Prolog Programming for the Working Programmer, William F. Clocksin  
+Code Complete: A Practical Handbook of Software Construction, Steve McConnell  
+Collective Intelligence in Action, Satnam Alag  
+Combinatorial Optimization: Algorithms and Complexity, Christos H. Papadimitriou  Kenneth Steiglitz  
+Common LISPcraft, Robert Wilensky  
+Communication Nets: Stochastic Message Flow and Delay, Leonard Kleinrock  
+Compilers: Principles  Techniques  and Tools, Alfred V. Aho  Monica S. Lam  Ravi Sethi  Jeffrey D. Ullman  
+Computer Applications  Volume 2  Queueing Systems, Leonard Kleinrock  
+Computer Gamesmanship, David N. L. Levy  
+Computer Science Reconsidered: The Invocation Model of Process Expression, Karl M. Fant  
+Computers and Human Language, George W. Smith  
+Concepts  Techniques  and Models of Computer Programming, Peter Van Roy  Seif Haridi  
+Concrete Abstractions: An Introduction to Computer Science Using Scheme, Max Hailperin  Barbara Kaiser  Karl Knight  
+Concurrency: State Models & Java Programs, Jeff Magee  Jeff Kramer  
+The Connection Machine, W. Danny Hillis  
+Constructing Language Processors for Little Languages, Randy M. Kaplan  
+The Contrarian's Guide to Leadership, Steven B. Sample  
+Critical Chain, Eliyahu M. Goldratt  
+Data Model Patterns: Conventions of Thought, David C. Hay  
+Death March: The Complete Software Developer's Guide to Surviving 'Mission Impossible' Projects, Edward Yourdon  
+Decision Support and Expert Systems Ma, Efraim Turban  
+Deming and Goldratt, Domenico Lepore  Oded Cohen  
+Design Concepts in Programming Languages, Franklyn A. Turbak  David K. Gifford  
+A Discipline of Programming, Edsger W. Dijkstra  
+Distributed Algorithms,  
+Distributed Event-Based Systems, Gero Mühl  Ludger Fiege  Peter Pietzuch  
+Distributed Systems: Concepts and Design, Jean Dollimore  Tim Kindberg  George Coulouris  
+Distributed Systems: Principles and Paradigms, Andrew S. Tanenbaum  Maarten Van Steen  
+Domain-Driven Design: Tackling Complexity in the Heart of Software, Eric Evans  
+Domain-Specific Languages, Martin Fowler  
+Dreaming in Code: Two Dozen Programmers  Three Years  4 732 Bugs  and One Quest for Transcendent Software, Scott Rosenberg  
+Dynamics of Software Development, Jim McCarthy  Denis Gilbert  
+The Elements of Artificial Intelligence Using Common Lisp, Steven L. Tanimoto  
+Elements of Programming, Alexander Stepanov  Paul McJones  
+Empirical Methods for Artificial Intelligence, Paul R. Cohen  
+Enterprise Integration Patterns: Designing  Building  and Deploying Messaging Solutions, Gregor Hohpe  Bobby Woolf  
+The Essence of Artificial Intelligence, Alison Cawsey  
+Essential Lisp, John R. Anderson  Albert Corbett  Brian J. Reiser  
+Even Faster Web Sites: Performance Best Practices for Web Developers, Steve Souders  
+Event-Based Programming: Taking Events to the Limit, Ted Faison  
+Experiments in artificial intelligence for small computers, John Krutch  
+Expert Systems: Principles and Programming  Fourth Edition, Joseph C. Giarratano  Gary D. Riley  
+Extreme Programming Explained: Embrace Change, Kent Beck  
+Flatland: A Romance of Many Dimensions, Edwin A. Abbott  
+Formalizing Common Sense: Papers By John Mccarthy, Vladimir Lifschitz  John McCarthy  
+The Functional Approach to Programming, Guy Cousineau  Michel Mauny  
+Functional Programming Application and Implementation, Peter Henderson  
+Functional Programming for Loosely-Coupled Multiprocessors, Paul H. J. Kelly  
+Functional Programming: Practice and Theory, Bruce J. Maclennan  
+Fundamentals Of Parallel Processing, JORDAN HARRY  ALAGHBAND GITA  
+Fundamentals of Artificial Intelligence - Lisp, James Noyes  
+Fuzzy Sets  Natural Language Computations  and Risk Analysis, Kurt J. Schmucker  
+Game Theory: A Nontechnical Introduction, Morton D. Davis  
+Generative Programming: Methods  Tools  and Applications, Krysztof Czarnecki  Ulrich Eisenecker  
+Genetic Algorithms in Search  Optimization  and Machine Learning, David E. Goldberg  
+Global Software Teams: Colloborating Across Borders and Time Zones, Erran Carmel  
+Goal-based Decision Making: An Interpersonal Model, Stephen Slade  
+Gödel  Escher  Bach: An Eternal Golden Braid, Douglas R. Hofstadter  
+Great Ideas in Computer Science - 2nd Edition: A Gentle Introduction, Alan W. Biermann  
+HTTP: The Definitive Guide, David Gourley  Brian Totty  
+Hacker's Delight, Henry S. Warren  
+Hackers and Painters: Big Ideas from the Computer Age, Paul Graham  
+The Haskell School of Expression: Learning Functional Programming through Multimedia, Paul Hudak  
+Haskell: The Craft of Functional Programming, Simon Thompson  
+Hidden Order: How Adaptation Builds Complexity, John Holland  
+High Performance Web Sites: Essential Knowledge for Front-End Engineers, Steve Souders  
+High-Performance Java Platform Computing: Multithreaded and Networked Programming, Thomas W. Christopher  George K.  Ph.D. Thiruvathukal  
+How to Design Programs: An Introduction to Programming and Computing, Matthias Felleisen  Robert Bruce Findler  Matthew Flatt  Shriram Krishnamurthi  
+How to Solve It by Computer, R. G. Dromey  
+How to Solve It: Modern Heuristics, Zbigniew Michalewicz  David B. Fogel  
+How to Think About Statistics  6th Edition, John L. Phillips  
+Implementing Lean Software Development: From Concept to Cash, Mary Poppendieck  Tom Poppendieck  
+Innovative Applications of Artificial Intelligence, Herbert Schorr  Alain Rappaport  
+Innovative Applications of Artificial Intelligence 2, Alain Rappaport  Reid Smith  
+Innovative Applications of Artificial Intelligence 3, Reid Smith  A. Carlisle Scott  
+Innovative Applications of Artificial Intelligence 4, A. Carlisle Scott  Philip Klahr  
+Intelligent Java Applications for the Internet and Intranets, Mark Watson  
+Introduction To Ai Robotics, MURPHY ROBIN R.  
+Introduction to Algorithms, Thomas Cormen  Charles Leiserson  Ronald Rivest  Clifford Stein  
+Introduction to Common Lisp, Taichi Yuasa et  
+Introduction to Computer Theory, Daniel I. A. Cohen  
+Introduction to Distributed Algorithms, Tel Gerard  
+Introduction to Functional Programming Systems Using Haskell, Antony J. T. Davie  
+Introduction to Information Retrieval, Manning Christopher D.  Raghavan Prabhakar  Schütze Hinrich  
+An Introduction to Lisp and Symbol Manipulation, Sharam Hekmatpour  
+Introduction to Logic, Irving M. Copi  Carl Cohen  
+Introduction to Machine Learning, Ethem Alpaydin  
+An Introduction to MultiAgent Systems, Michael Wooldridge  
+An Introduction to Programming in Emacs Lisp, Robert J. Chassell  
+Introduction to Reliable Distributed Programming, Rachid Guerraoui  Luís Rodrigues  
+An Introduction to Seaside,  
+Introduction to the Theory of Computation, Michael Sipser  
+It's Not Luck, Eliyahu M. Goldratt  
+Java Concurrency in Practice, Brian Goetz  Tim Peierls  Joshua Bloch  Joseph Bowbeer  David Holmes  Doug Lea  
+Joel on Software: And on Diverse and Occasionally Related Matters That Will Prove of Interest to Software Developers  Designers  and Managers  and to Those Who  Whether by Good Fortune or Ill Luck  Work with Them in Some Capacity, Joel Spolsky  
+Knowledge Discovery in Databases, Gregory Piatetsky-Shapiro  William J. Frawley  
+Knowledge Representation and Reasoning, Ronald Brachman  Hector Levesque  
+Languages and Compilers for Parallel Computing, David Gelernter  Alexandru Nicolau  David Padua  
+Lean Project Management: Eight Principles For Success, Lawrence P. Leach  
+Lean Software Strategies: Proven Techniques for Managers and Developers, Peter Middleton  James Sutton  
+Lean Thinking: Banish Waste and Create Wealth in Your Corporation, James P. Womack  Daniel T. Jones  
+Let Over Lambda, Doug Hoyte  
+Let's Talk LISP, Laurent Siklossy  
+Lisp, Patrick Winston  Berthold Horn  
+Lisp in Small Pieces, Christian Queinnec  
+Lisp  Objects and Symbolic Programming, Robert R. Kessler  
+Lisp: The Language of Artificial Intelligence, A. A. Berk  
+The Little MLer, Matthias Felleisen  Daniel P. Friedman  
+The Little Schemer - 4th Edition, Daniel P. Friedman  Matthias Felleisen  
+Logic Programming and Databases, Stefano Ceri  G. Gottlob  L. Tanca  
+Looking at Lisp, Tony Hasemer  
+MDA Explained: The Model Driven Architecture(TM): Practice and Promise, Anneke Kleppe  Jos Warmer  Wim Bast  
+ML for the Working Programmer, Lawrence C. Paulson  
+Machinery of the Mind: Inside the New Science of Artificial Intelligence, George Johnson  
+The Magic Machine: A Handbook of Computer Sorcery, A. K. Dewdney  
+Managing Business Complexity: Discovering Strategic Solutions with Agent-Based Modeling and Simulation, Michael J. North  Charles M. Macal  
+Managing Humans: Biting and Humorous Tales of a Software Engineering Manager, Michael Lopp  
+The McKinsey Mind: Understanding and Implementing the Problem-Solving Tools and Management Techniques of the World's Top Strategic Consulting Firm, Ethan Rasiel  Ph.D. Paul N. Friga  
+The McKinsey Way, Ethan Rasiel  
+The Measurement Nightmare: How the Theory of Constraints Can Resolve Conflicting Strategies  Policies  and Measures, Debra Smith  
+The Mind's I: Fantasies and Reflections on Self & Soul, Daniel C. Dennett  Douglas R. Hofstadter  
+Mining the Web: Discovering Knowledge from Hypertext Data, Soumen Chakrabarti  
+Modern Compiler Implementation in Java, Andrew W. Appel  
+Multiagent Systems: Algorithmic  Game-Theoretic  and Logical Foundations, Yoav Shoham  Kevin Leyton-Brown  
+Natural Language Understanding, James Allen  
+Necessary but Not Sufficient: A Theory of Constraints Business Novel, Eliyahu M. Goldratt  Eli Schragenheim  Carol A. Ptak  
+Nested Transactions: An Approach to Reliable Distributed Computing, J. Eliot B. Moss  
+The New Intelligence: Artificial Intelligence Ideas and Applications in Financial Services, Jessica Keyes  
+A New Kind of Science, Stephen Wolfram  
+New Turing Omnibus, A.K. Dewdney  
+Object Design: Roles  Responsibilities  and Collaborations, Rebecca Wirfs-Brock  Alan McKean  
+Object Lessons: Lessons Learned in Object-Oriented Development Projects, Tom Love  
+Object Life Cycles: Modeling the World In States, Stephen J. Mellor  Sally Shlaer  
+Object Models: Strategies  Patterns  and Applications, Peter Coad  David North  Mark Mayfield  
+Object-Oriented Common LISP, Stephen Slade  
+Object-Oriented Concurrent Programming, Akinori Yonezawa  Mario Tokoro  
+Object-Oriented Construction Handbook: Developing Application-Oriented Software with the Tools & Materials Approach, Heinz ZÃ¼llighoven  
+Object-Oriented Programming in Common Lisp: A Programmer's Guide to CLOS, Sonya E. Keene  
+Object-Oriented Programming: The CLOS Perspective, Andreas Paepcke  
+Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp, Peter Norvig  
+Parallel Computing: Theory and Practice, Michael J. Quinn  
+Parallel Lisp: Languages and Systems, Us  Japan Workshop on Parallel Lisp  T. Ito  Robert H. Halstead  R. H.  Jr. Halstead  
+Parallel Processing for Supercomputers and Artificial Intelligence, Kai Hwang  Doug Degroot  
+Parallel Programming: Techniques and Applications Using Networked Workstations and Parallel Computers, Barry Wilkinson  Michael Allen  
+Parallel and Distributed Computation: Numerical Methods, Dimitri P. Bertsekas  
+Pattern Languages of Program Design, James O. Coplien  Douglas C. Schmidt  
+Pattern Languages of Program Design 2, John M. Vlissides  James O. Coplien  Norman L. Kerth  
+Pattern Languages of Program Design 3, Robert C. Martin  Dirk Riehle  Frank Buschmann  
+Pattern Languages of Program Design 4, Neil Harrison  Brian Foote  Hans Rohnert  
+Pattern Languages of Program Design 5, Dragos Manolescu  Markus Voelter  James Noble  
+Pattern-Oriented Software Architecture Volume 1: A System of Patterns, Frank Buschmann  Regine Meunier  Hans Rohnert  Peter Sommerlad  Michael Stal  
+Pattern-Oriented Software Architecture Volume 2: Patterns for Concurrent and Networked Objects, Douglas Schmidt  Michael Stal  Hans Rohnert  Frank Buschmann  
+Pattern-Oriented Software Architecture Volume 4: A Pattern Language for Distributed Computing, Frank Buschmann  Kevlin Henney  Douglas C. Schmidt  
+Patterns for Fault Tolerant Software, Robert Hanmer  
+Patterns for Parallel Programming, Timothy G. Mattson  Beverly A. Sanders  Berna L. Massingill  
+Patterns of Enterprise Application Architecture, Martin Fowler  
+Peopleware: Productive Projects and Teams, Tom DeMarco  Timothy Lister  
+Performance and Evaluation of Lisp Systems, Richard P. Gabriel  
+The Power of Events: An Introduction to Complex Event Processing in Distributed Enterprise Systems, David Luckham  
+Practical Common Lisp, Peter Seibel  
+Practical OCaml, Joshua B. Smith  
+The Practical Performance Analyst, Neil Gunther  
+Prefactoring: Extreme Abstraction  Extreme Separation  Extreme Readability, Ken Pugh  
+The Principles of Distributed Databases, M. Tamer Ozsu  Patrick Valduriez  
+Principles of Transaction Processing for the Systems Professional, Philip A. Bernstein  Eric Newcomer  
+Principles of the Business Rule Approach, Ronald G. Ross  
+Probabilistic Graphical Models: Principles and Techniques, Daphne Koller  Nir Friedman  
+Probability and Statistics with Reliability  Queueing  and Computer Science Applications  2nd Edition, Kishor Shridharbhai Trivedi  
+Problem-Solving Methods in Artificial Intelligence, nils nilsson  
+Programming Collective Intelligence: Building Smart Web 2.0 Applications, Toby Segaran  
+Programming Erlang: Software for a Concurrent World, Joe Armstrong  
+Programming Language Concepts 2/E, Carlo; Jazayeri  Mehdi Ghezzi  
+Programming Language Design Concepts, David A. Watt  
+Programming Language Pragmatics  Third Edition, Michael L. Scott  
+Programming Language Processors in Java: Compilers and Interpreters, David Watt  Deryck Brown  
+Programming Languages, Allen Tucker  Robert Noonan  
+Programming Languages: Concepts and Constructs, Ravi Sethi  
+Programming Languages: Principles and Practice, Kenneth C. Louden  
+Programming Paradigms in Lisp, Rajeev Sangal  
+Programming and Meta-Programming in Scheme, Jon Pearce  
+Programming for Artificial Intelligence: Methods  Tools  and Applications, Wolfgang Kreutzer  Bruce McKenzie  
+Programming in Haskell, Graham Hutton  
+Programming in Scheme: Trade Edition, Michael Eisenberg  Harold Abelson  
+Project Retrospectives: A Handbook for Team Reviews, Norman L. Kerth  
+Prolog Programming for Artificial Intelligence, Ivan Bratko  
+Prolog Programming: Applications for Database Systems  Expert Systems  and Natural Language Systems, Claudia Marcus  
+Purely Functional Data Structures, Chris Okasaki  
+Queueing Systems. Volume 1: Theory, Leonard Kleinrock  
+Queueing Systems. Volume 1: Theory, Leonard Kleinrock  
+REST in Practice: Hypermedia and Systems Architecture, Jim Webber  Savas Parastatidis  Ian Robinson  
+Radical Project Management, Rob Thomsett  
+The Reasoned Schemer, Daniel P. Friedman  William E. Byrd  Oleg Kiselyov  
+Refactoring: Improving the Design of Existing Code, Martin Fowler  Kent Beck  John Brant  William Opdyke  Don Roberts  
+Reinforcement Learning: An Introduction, Richard S. Sutton  Andrew G. Barto  
+Scenarios: The Art of Strategic Conversation, Kees van der Heijden  
+The Scheme Programming Language  4th Edition, R. Kent Dybvig  
+Scheme and the Art of Programming, George Springer  Daniel Friedman  
+The Sciences of the Artificial - 3rd Edition, Herbert A. Simon  
+The Seasoned Schemer, Daniel P. Friedman  Matthias Felleisen  
+Smalltalk 80: The Language, Adele Goldberg  David Robson  
+Software Agents, Jeffrey M. Bradshaw  
+Software Reliability: Principles and Practices, Glenford J. Myers  
+Software Tools, Brian W. Kernighan  P. J. Plauger  
+Squeak: Object-Oriented Design with Multimedia Applications, Mark J. Guzdial  
+Squeak: Open Personal Computing and Multimedia, Mark J. Guzdial  Kimberly M. Rose  
+Structure and Interpretation of Computer Programs - 2nd Edition, Harold Abelson  Gerald Jay Sussman  
+Successful Lisp: How to Understand and Use Common Lisp, David B. Lamkins  
+Symbolic Computing With Lisp and Prolog, Robert A. Mueller  Rex L. Page  
+Systems That Learn - 2nd Edition: An Introduction to Learning Theory, Sanjay Jain  Daniel N. Osherson  James S. Royer  Arun Sharma  
+TCP/IP Illustrated  Vol. 1: The Protocols, W. Richard Stevens  
+Text Mining Application Programming, Manu Konchady  
+The Thinking Computer: Mind Inside Matter, Bertram Raphael  
+Throughput Accounting, Thomas Corbett  
+To Mock a Mockingbird: And Other Logic Puzzles, Raymond M. Smullyan  
+The Toyota Way: 14 Management Principles from the World's Greatest Manufacturer/International Edition, Jeffrey K. Liker  
+Types and Programming Languages, Benjamin C. Pierce  
+The Unknowable, Gregory J. Chaitin  
+Web Protocols and Practice: HTTP/1.1  Networking Protocols  Caching  and Traffic Measurement, Balachander Krishnamurthy  Jennifer Rexford  
+Why Does Software Cost So Much?: And Other Puzzles of the Information Age, Tom Demarco  
+Writing Solid Code, Steve Maguire  
