@@ -48,8 +48,12 @@
   (:content html)
   )
 
+(defn href-from-link [html]
+  (:href (:attrs html))
+  )
+
 (defn titles-and-authors-from-page [page-html]
-  (map #(format-content-from-html %) (html/select page-html #{[:a.title] [:a.creator]})))
+  (map #(href-from-link %) (html/select page-html #{[:a.title]})))
 
 (defn fetch-all-books-from-all-pages [pages]
   (map #(titles-and-authors-from-page %) pages))
@@ -61,18 +65,15 @@
 (defn remove-commas-from-string [str]
   (.replace str "," " "))
 
-(defn write-to-file [file titles-and-authors]
-  (let [title (first titles-and-authors) author (second titles-and-authors)]
-    (if-not (nil? title)
-      (duck-streams/append-spit file (str (remove-commas-from-string title) ", " (remove-commas-from-string author) "\n")))
-    (if (nil? title)
-      (println "Finished fetching books!")
-      (recur file (nnext titles-and-authors)))))
+(defn write-single-line-to-file [amazon-link]
+  (duck-streams/append-spit *books-file* (str amazon-link "\n")))
 
-
-(defn fetch-books-and-write-to-file [file]
-  (duck-streams/spit file "Title, Author(s)\n")
-  (write-to-file file (vector-of-all-titles-and-authors))
+(defn write-all-books-to-file [links]
+  (map write-single-line-to-file links)
   )
 
-(fetch-books-and-write-to-file *books-file*)
+(defn fetch-books-and-write-to-file []
+  (duck-streams/spit *books-file* "Amazon Link\n")
+  (write-all-books-to-file (vector-of-all-titles-and-authors)))
+
+(fetch-books-and-write-to-file)
