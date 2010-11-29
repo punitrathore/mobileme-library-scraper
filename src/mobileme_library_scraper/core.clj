@@ -45,15 +45,23 @@
   (map #(div-containing-books-from-html %) pages))
 
 (defn format-content-from-html [html]
-  (:content html)
-  )
+  (:content html))
+
+(defn remove-commas-from-string [str]
+  (.replace str "," " "))
+
+(defn fetch-title-and-creator [html]
+  (html/select html #{[:a.title] [:a.creator]}))
+
+(defn format-link-title-author [title-author-array]  
+  (let [flattened-title-author-array (flatten title-author-array) title (first title-author-array) author (second title-author-array)]
+      (vector (:href (:attrs title)) (remove-commas-from-string (apply str (:content title))) (remove-commas-from-string (apply str (:content author))))))
 
 (defn href-from-link [html]
-  (:href (:attrs html))
-  )
+  (:href (:attrs html)))
 
 (defn titles-and-authors-from-page [page-html]
-  (map #(href-from-link %) (html/select page-html #{[:a.title]})))
+  (map #(format-link-title-author %) (partition 2 (fetch-title-and-creator page-html))))
 
 (defn fetch-all-books-from-all-pages [pages]
   (map #(titles-and-authors-from-page %) pages))
@@ -62,20 +70,12 @@
 (defn vector-of-all-titles-and-authors []
   (flatten (fetch-all-books-from-all-pages (vector-of-divs-from-all-pages (html-of-all-pages urls)))))
 
-(defn remove-commas-from-string [str]
-  (.replace str "," " "))
+(defn write-single-line-to-file [link-title-author]
+  (let [link (first link-title-author) title (second link-title-author) author (nth link-title-author 2)]
+    (duck-streams/append-spit *books-file* (str link ", " title ", " author"\n"))))
 
-(defn write-single-line-to-file [amazon-link]
-  (duck-streams/append-spit *books-file* (str amazon-link "\n")))
+(defn write-all-books-to-file [data]
+  (duck-streams/spit *books-file* "Amazon Link, Title, Author\n")
+  (map write-single-line-to-file (partition 3 data)))
 
-(defn write-all-books-to-file [links]
-  (map write-single-line-to-file links)
-  )
-
-(defn fetch-books-and-write-to-file []
-  (let [links (vector-of-all-titles-and-authors)]
-    (duck-streams/spit *books-file* "Amazon Link\n")
-    (println "Finished fetching books!")
-    (write-all-books-to-file links)))
-
-(fetch-books-and-write-to-file)
+(write-all-books-to-file (vector-of-all-titles-and-authors))
