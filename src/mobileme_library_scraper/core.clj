@@ -73,7 +73,9 @@
   )
 
 (defn fetch-books-and-write-to-file []
-  (duck-streams/spit *books-file* "Amazon Link\n")
-  (write-all-books-to-file (vector-of-all-titles-and-authors)))
+  (let [links (vector-of-all-titles-and-authors)]
+    (duck-streams/spit *books-file* "Amazon Link\n")
+    (println "Finished fetching books!")
+    (write-all-books-to-file links)))
 
 (fetch-books-and-write-to-file)
