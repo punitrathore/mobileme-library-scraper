@@ -12,24 +12,24 @@
 (def urls
      [(str "http://homepage.mac.com/amitrathore/deliciouslibrary/index.html")
      (str "http://homepage.mac.com/amitrathore/deliciouslibrary/books-2.html")
-     (str "http://homepage.mac.com/amitrathore/deliciouslibrary/books-3.html")
-     (str "http://homepage.mac.com/amitrathore/deliciouslibrary/books-4.html")
-     (str "http://homepage.mac.com/amitrathore/deliciouslibrary/books-5.html")
-     (str "http://homepage.mac.com/amitrathore/deliciouslibrary/books-6.html")
-     (str "http://homepage.mac.com/amitrathore/deliciouslibrary/books-7.html")
-     (str "http://homepage.mac.com/amitrathore/deliciouslibrary/books-8.html")
-     (str "http://homepage.mac.com/amitrathore/deliciouslibrary/books-9.html")
-     (str "http://homepage.mac.com/amitrathore/deliciouslibrary/books-10.html")
-     (str "http://homepage.mac.com/amitrathore/deliciouslibrary/books-11.html")
-     (str "http://homepage.mac.com/amitrathore/deliciouslibrary/books-12.html")
-     (str "http://homepage.mac.com/amitrathore/deliciouslibrary/books-13.html")
-     (str "http://homepage.mac.com/amitrathore/deliciouslibrary/books-14.html")
-     (str "http://homepage.mac.com/amitrathore/deliciouslibrary/books-15.html")
-     (str "http://homepage.mac.com/amitrathore/deliciouslibrary/books-16.html")
-     (str "http://homepage.mac.com/amitrathore/deliciouslibrary/books-17.html")
-     (str "http://homepage.mac.com/amitrathore/deliciouslibrary/books-18.html")
-     (str "http://homepage.mac.com/amitrathore/deliciouslibrary/books-19.html")
-     (str "http://homepage.mac.com/amitrathore/deliciouslibrary/books-20.html")    
+     ;; (str "http://homepage.mac.com/amitrathore/deliciouslibrary/books-3.html")
+     ;; (str "http://homepage.mac.com/amitrathore/deliciouslibrary/books-4.html")
+     ;; (str "http://homepage.mac.com/amitrathore/deliciouslibrary/books-5.html")
+     ;; (str "http://homepage.mac.com/amitrathore/deliciouslibrary/books-6.html")
+     ;; (str "http://homepage.mac.com/amitrathore/deliciouslibrary/books-7.html")
+     ;; (str "http://homepage.mac.com/amitrathore/deliciouslibrary/books-8.html")
+     ;; (str "http://homepage.mac.com/amitrathore/deliciouslibrary/books-9.html")
+     ;; (str "http://homepage.mac.com/amitrathore/deliciouslibrary/books-10.html")
+     ;; (str "http://homepage.mac.com/amitrathore/deliciouslibrary/books-11.html")
+     ;; (str "http://homepage.mac.com/amitrathore/deliciouslibrary/books-12.html")
+     ;; (str "http://homepage.mac.com/amitrathore/deliciouslibrary/books-13.html")
+     ;; (str "http://homepage.mac.com/amitrathore/deliciouslibrary/books-14.html")
+     ;; (str "http://homepage.mac.com/amitrathore/deliciouslibrary/books-15.html")
+     ;; (str "http://homepage.mac.com/amitrathore/deliciouslibrary/books-16.html")
+     ;; (str "http://homepage.mac.com/amitrathore/deliciouslibrary/books-17.html")
+     ;; (str "http://homepage.mac.com/amitrathore/deliciouslibrary/books-18.html")
+     ;; (str "http://homepage.mac.com/amitrathore/deliciouslibrary/books-19.html")
+     ;; (str "http://homepage.mac.com/amitrathore/deliciouslibrary/books-20.html")    
      ])
 
 (defn fetch-page-data [url]
@@ -66,9 +66,14 @@
 (defn fetch-all-books-from-all-pages [pages]
   (map #(titles-and-authors-from-page %) pages))
 
-;;final function which fetches all books
+;;function which fetches all data to add to filex
 (defn vector-of-all-titles-and-authors []
-  (flatten (fetch-all-books-from-all-pages (vector-of-divs-from-all-pages (html-of-all-pages urls)))))
+  (-> urls
+      (html-of-all-pages)
+      (vector-of-divs-from-all-pages)
+      (fetch-all-books-from-all-pages)
+      flatten
+      ))
 
 (defn write-single-line-to-file [link-title-author]
   (let [link (first link-title-author) title (second link-title-author) author (nth link-title-author 2)]
