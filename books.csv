@@ -1,272 +1,272 @@
-Title, Author(s)
-ABCL: An Object-Oriented Concurrent System, Akinori Yonezawa  
-ACTORS: A Model of Concurrent Computation in Distributed Systems, Gul Agha  
-AI Algorithms  Data Structures  and Idioms in Prolog  Lisp  and Java, George F. Luger  William A Stubblefield  
-AI Application Programming, M. Tim Jones  
-ANSI Common LISP, Paul Graham  
-ARTIFICIAL INTELLIGENCE: A MODERN APPROACH, Russel  Norvig  
-Agile Database Techniques: Effective Strategies for the Agile Software Developer, Scott Ambler  
-Agile Project Management with Scrum, Ken Schwaber  
-Agile Software Development, Alistair Cockburn  
-Agile Software Development with Scrum, Ken Schwaber  Mike Beedle  
-Agile Software Development  Principles  Patterns  and Practices, Robert C. Martin  
-Algorithmic Skeletons: Structural Management of Parallel Computation, Murray I. Cole  
-Algorithms of the Intelligent Web, Haralambos Marmanis  Dmitry Babenko  
-Analysis Patterns: Reusable Object Models, Martin Fowler  
-Anatomy of Lisp, John Allen  
-The Architecture of Symbolic Computers, Peter M. Kogge  
-Armchair Universe, A.K. Dewdney  
-The Art and Science of Smalltalk, Simon Lewis  
-The Art of Computer Systems Performance Analysis: Techniques for Experimental Design  Measurement  Simulation  and Modeling, R. K. Jain  
-The Art of Human-Computer Interface Design, Brenda Laurel  
-The Art of Multiprocessor Programming, Maurice Herlihy  Nir Shavit  
-The Art of Project Management, Scott Berkun  
-The Art of the Metaobject Protocol, Gregor Kiczales  Jim des Rivieres  Daniel G. Bobrow  
-Artificial Experts: Social Knowledge and Intelligent Machines, H. M. Collins  
-Artificial Intelligence, Elaine Rich  
-Artificial Intelligence, Elaine Rich  Kevin Knight  
-Artificial Intelligence, Christopher Thornton  
-Artificial Intelligence, Winston  
-The Artificial Intelligence Handbook: Business Applications, Joel G. Siegel  Jae K. Shim  
-Artificial Intelligence Illuminated, Ben Coppin  
-Artificial Intelligence Programming, Eugene Charniak  Christopher K. Riesbeck  Drew V. McDermott  James R. Meehan  
-Artificial Intelligence and Natural Man  Second Edition, Margaret A. Boden  
-Artificial Intelligence: A Guide to Intelligent Systems, Michael Negnevitsky  
-Artificial Intelligence: Concepts  Techniques  and Applications, Yoshiaki Shirai  J. Tsujii  
-Artificial Intelligence: Structures and Strategies for Complex Problem Solving, George F. Luger  
-Artificial Intelligence: Tools  Techniques and Applications, Tim O'Shea  M. Eistenstadt  
-Artificial Life II, Christopher G. Langton  Charles Taylor  J. Doyne Farmer  Steen Rasmussen  
-Artificial Life III, Christopher G. Langton  
-Artificial Life: An Overview, Christopher G. Langton  
-Automatic Natural Language Parsing, Karen Sparck Jones  Yorick Wilks  
-Beautiful Code: Leading Programmers Explain How They Think, Andy Oram  Greg Wilson  
-The Best Software Writing I: Selected and Introduced by Joel Spolsky, Joel Spolsky  
-Beyond Chaos: The Expert Edge in Managing Software Development, Larry L. Constantine  
-Beyond Software Architecture: Creating and Sustaining Winning Solutions, Luke Hohmann  
-Blondie24: Playing at the Edge of AI, David B. Fogel  
-Build Your Own Expert System, Chris Naylor  
-Building Parsers With Java, Steven John Metsker  
-Building Problem Solvers, Kenneth D. Forbus  Johan de Kleer  
-Building Scalable Web Sites: Building  Scaling  and Optimizing the Next Generation of Web Applications, Cal Henderson  
-Capacity Planning for Web Services: Metrics  Models  and Methods, Daniel A. Menasce  Virgilio A.F. Almeida  
-Causality: Models  Reasoning  and Inference, Judea Pearl  
-Clause and Effect: Prolog Programming for the Working Programmer, William F. Clocksin  
-Code Complete: A Practical Handbook of Software Construction, Steve McConnell  
-Collective Intelligence in Action, Satnam Alag  
-Combinatorial Optimization: Algorithms and Complexity, Christos H. Papadimitriou  Kenneth Steiglitz  
-Common LISPcraft, Robert Wilensky  
-Communication Nets: Stochastic Message Flow and Delay, Leonard Kleinrock  
-Compilers: Principles  Techniques  and Tools, Alfred V. Aho  Monica S. Lam  Ravi Sethi  Jeffrey D. Ullman  
-Computer Applications  Volume 2  Queueing Systems, Leonard Kleinrock  
-Computer Gamesmanship, David N. L. Levy  
-Computer Science Reconsidered: The Invocation Model of Process Expression, Karl M. Fant  
-Computers and Human Language, George W. Smith  
-Concepts  Techniques  and Models of Computer Programming, Peter Van Roy  Seif Haridi  
-Concrete Abstractions: An Introduction to Computer Science Using Scheme, Max Hailperin  Barbara Kaiser  Karl Knight  
-Concurrency: State Models & Java Programs, Jeff Magee  Jeff Kramer  
-The Connection Machine, W. Danny Hillis  
-Constructing Language Processors for Little Languages, Randy M. Kaplan  
-The Contrarian's Guide to Leadership, Steven B. Sample  
-Critical Chain, Eliyahu M. Goldratt  
-Data Model Patterns: Conventions of Thought, David C. Hay  
-Death March: The Complete Software Developer's Guide to Surviving 'Mission Impossible' Projects, Edward Yourdon  
-Decision Support and Expert Systems Ma, Efraim Turban  
-Deming and Goldratt, Domenico Lepore  Oded Cohen  
-Design Concepts in Programming Languages, Franklyn A. Turbak  David K. Gifford  
-A Discipline of Programming, Edsger W. Dijkstra  
-Distributed Algorithms,  
-Distributed Event-Based Systems, Gero Mühl  Ludger Fiege  Peter Pietzuch  
-Distributed Systems: Concepts and Design, Jean Dollimore  Tim Kindberg  George Coulouris  
-Distributed Systems: Principles and Paradigms, Andrew S. Tanenbaum  Maarten Van Steen  
-Domain-Driven Design: Tackling Complexity in the Heart of Software, Eric Evans  
-Domain-Specific Languages, Martin Fowler  
-Dreaming in Code: Two Dozen Programmers  Three Years  4 732 Bugs  and One Quest for Transcendent Software, Scott Rosenberg  
-Dynamics of Software Development, Jim McCarthy  Denis Gilbert  
-The Elements of Artificial Intelligence Using Common Lisp, Steven L. Tanimoto  
-Elements of Programming, Alexander Stepanov  Paul McJones  
-Empirical Methods for Artificial Intelligence, Paul R. Cohen  
-Enterprise Integration Patterns: Designing  Building  and Deploying Messaging Solutions, Gregor Hohpe  Bobby Woolf  
-The Essence of Artificial Intelligence, Alison Cawsey  
-Essential Lisp, John R. Anderson  Albert Corbett  Brian J. Reiser  
-Even Faster Web Sites: Performance Best Practices for Web Developers, Steve Souders  
-Event-Based Programming: Taking Events to the Limit, Ted Faison  
-Experiments in artificial intelligence for small computers, John Krutch  
-Expert Systems: Principles and Programming  Fourth Edition, Joseph C. Giarratano  Gary D. Riley  
-Extreme Programming Explained: Embrace Change, Kent Beck  
-Flatland: A Romance of Many Dimensions, Edwin A. Abbott  
-Formalizing Common Sense: Papers By John Mccarthy, Vladimir Lifschitz  John McCarthy  
-The Functional Approach to Programming, Guy Cousineau  Michel Mauny  
-Functional Programming Application and Implementation, Peter Henderson  
-Functional Programming for Loosely-Coupled Multiprocessors, Paul H. J. Kelly  
-Functional Programming: Practice and Theory, Bruce J. Maclennan  
-Fundamentals Of Parallel Processing, JORDAN HARRY  ALAGHBAND GITA  
-Fundamentals of Artificial Intelligence - Lisp, James Noyes  
-Fuzzy Sets  Natural Language Computations  and Risk Analysis, Kurt J. Schmucker  
-Game Theory: A Nontechnical Introduction, Morton D. Davis  
-Generative Programming: Methods  Tools  and Applications, Krysztof Czarnecki  Ulrich Eisenecker  
-Genetic Algorithms in Search  Optimization  and Machine Learning, David E. Goldberg  
-Global Software Teams: Colloborating Across Borders and Time Zones, Erran Carmel  
-Goal-based Decision Making: An Interpersonal Model, Stephen Slade  
-Gödel  Escher  Bach: An Eternal Golden Braid, Douglas R. Hofstadter  
-Great Ideas in Computer Science - 2nd Edition: A Gentle Introduction, Alan W. Biermann  
-HTTP: The Definitive Guide, David Gourley  Brian Totty  
-Hacker's Delight, Henry S. Warren  
-Hackers and Painters: Big Ideas from the Computer Age, Paul Graham  
-The Haskell School of Expression: Learning Functional Programming through Multimedia, Paul Hudak  
-Haskell: The Craft of Functional Programming, Simon Thompson  
-Hidden Order: How Adaptation Builds Complexity, John Holland  
-High Performance Web Sites: Essential Knowledge for Front-End Engineers, Steve Souders  
-High-Performance Java Platform Computing: Multithreaded and Networked Programming, Thomas W. Christopher  George K.  Ph.D. Thiruvathukal  
-How to Design Programs: An Introduction to Programming and Computing, Matthias Felleisen  Robert Bruce Findler  Matthew Flatt  Shriram Krishnamurthi  
-How to Solve It by Computer, R. G. Dromey  
-How to Solve It: Modern Heuristics, Zbigniew Michalewicz  David B. Fogel  
-How to Think About Statistics  6th Edition, John L. Phillips  
-Implementing Lean Software Development: From Concept to Cash, Mary Poppendieck  Tom Poppendieck  
-Innovative Applications of Artificial Intelligence, Herbert Schorr  Alain Rappaport  
-Innovative Applications of Artificial Intelligence 2, Alain Rappaport  Reid Smith  
-Innovative Applications of Artificial Intelligence 3, Reid Smith  A. Carlisle Scott  
-Innovative Applications of Artificial Intelligence 4, A. Carlisle Scott  Philip Klahr  
-Intelligent Java Applications for the Internet and Intranets, Mark Watson  
-Introduction To Ai Robotics, MURPHY ROBIN R.  
-Introduction to Algorithms, Thomas Cormen  Charles Leiserson  Ronald Rivest  Clifford Stein  
-Introduction to Common Lisp, Taichi Yuasa et  
-Introduction to Computer Theory, Daniel I. A. Cohen  
-Introduction to Distributed Algorithms, Tel Gerard  
-Introduction to Functional Programming Systems Using Haskell, Antony J. T. Davie  
-Introduction to Information Retrieval, Manning Christopher D.  Raghavan Prabhakar  Schütze Hinrich  
-An Introduction to Lisp and Symbol Manipulation, Sharam Hekmatpour  
-Introduction to Logic, Irving M. Copi  Carl Cohen  
-Introduction to Machine Learning, Ethem Alpaydin  
-An Introduction to MultiAgent Systems, Michael Wooldridge  
-An Introduction to Programming in Emacs Lisp, Robert J. Chassell  
-Introduction to Reliable Distributed Programming, Rachid Guerraoui  Luís Rodrigues  
-An Introduction to Seaside,  
-Introduction to the Theory of Computation, Michael Sipser  
-It's Not Luck, Eliyahu M. Goldratt  
-Java Concurrency in Practice, Brian Goetz  Tim Peierls  Joshua Bloch  Joseph Bowbeer  David Holmes  Doug Lea  
-Joel on Software: And on Diverse and Occasionally Related Matters That Will Prove of Interest to Software Developers  Designers  and Managers  and to Those Who  Whether by Good Fortune or Ill Luck  Work with Them in Some Capacity, Joel Spolsky  
-Knowledge Discovery in Databases, Gregory Piatetsky-Shapiro  William J. Frawley  
-Knowledge Representation and Reasoning, Ronald Brachman  Hector Levesque  
-Languages and Compilers for Parallel Computing, David Gelernter  Alexandru Nicolau  David Padua  
-Lean Project Management: Eight Principles For Success, Lawrence P. Leach  
-Lean Software Strategies: Proven Techniques for Managers and Developers, Peter Middleton  James Sutton  
-Lean Thinking: Banish Waste and Create Wealth in Your Corporation, James P. Womack  Daniel T. Jones  
-Let Over Lambda, Doug Hoyte  
-Let's Talk LISP, Laurent Siklossy  
-Lisp, Patrick Winston  Berthold Horn  
-Lisp in Small Pieces, Christian Queinnec  
-Lisp  Objects and Symbolic Programming, Robert R. Kessler  
-Lisp: The Language of Artificial Intelligence, A. A. Berk  
-The Little MLer, Matthias Felleisen  Daniel P. Friedman  
-The Little Schemer - 4th Edition, Daniel P. Friedman  Matthias Felleisen  
-Logic Programming and Databases, Stefano Ceri  G. Gottlob  L. Tanca  
-Looking at Lisp, Tony Hasemer  
-MDA Explained: The Model Driven Architecture(TM): Practice and Promise, Anneke Kleppe  Jos Warmer  Wim Bast  
-ML for the Working Programmer, Lawrence C. Paulson  
-Machinery of the Mind: Inside the New Science of Artificial Intelligence, George Johnson  
-The Magic Machine: A Handbook of Computer Sorcery, A. K. Dewdney  
-Managing Business Complexity: Discovering Strategic Solutions with Agent-Based Modeling and Simulation, Michael J. North  Charles M. Macal  
-Managing Humans: Biting and Humorous Tales of a Software Engineering Manager, Michael Lopp  
-The McKinsey Mind: Understanding and Implementing the Problem-Solving Tools and Management Techniques of the World's Top Strategic Consulting Firm, Ethan Rasiel  Ph.D. Paul N. Friga  
-The McKinsey Way, Ethan Rasiel  
-The Measurement Nightmare: How the Theory of Constraints Can Resolve Conflicting Strategies  Policies  and Measures, Debra Smith  
-The Mind's I: Fantasies and Reflections on Self & Soul, Daniel C. Dennett  Douglas R. Hofstadter  
-Mining the Web: Discovering Knowledge from Hypertext Data, Soumen Chakrabarti  
-Modern Compiler Implementation in Java, Andrew W. Appel  
-Multiagent Systems: Algorithmic  Game-Theoretic  and Logical Foundations, Yoav Shoham  Kevin Leyton-Brown  
-Natural Language Understanding, James Allen  
-Necessary but Not Sufficient: A Theory of Constraints Business Novel, Eliyahu M. Goldratt  Eli Schragenheim  Carol A. Ptak  
-Nested Transactions: An Approach to Reliable Distributed Computing, J. Eliot B. Moss  
-The New Intelligence: Artificial Intelligence Ideas and Applications in Financial Services, Jessica Keyes  
-A New Kind of Science, Stephen Wolfram  
-New Turing Omnibus, A.K. Dewdney  
-Object Design: Roles  Responsibilities  and Collaborations, Rebecca Wirfs-Brock  Alan McKean  
-Object Lessons: Lessons Learned in Object-Oriented Development Projects, Tom Love  
-Object Life Cycles: Modeling the World In States, Stephen J. Mellor  Sally Shlaer  
-Object Models: Strategies  Patterns  and Applications, Peter Coad  David North  Mark Mayfield  
-Object-Oriented Common LISP, Stephen Slade  
-Object-Oriented Concurrent Programming, Akinori Yonezawa  Mario Tokoro  
-Object-Oriented Construction Handbook: Developing Application-Oriented Software with the Tools & Materials Approach, Heinz ZÃ¼llighoven  
-Object-Oriented Programming in Common Lisp: A Programmer's Guide to CLOS, Sonya E. Keene  
-Object-Oriented Programming: The CLOS Perspective, Andreas Paepcke  
-Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp, Peter Norvig  
-Parallel Computing: Theory and Practice, Michael J. Quinn  
-Parallel Lisp: Languages and Systems, Us  Japan Workshop on Parallel Lisp  T. Ito  Robert H. Halstead  R. H.  Jr. Halstead  
-Parallel Processing for Supercomputers and Artificial Intelligence, Kai Hwang  Doug Degroot  
-Parallel Programming: Techniques and Applications Using Networked Workstations and Parallel Computers, Barry Wilkinson  Michael Allen  
-Parallel and Distributed Computation: Numerical Methods, Dimitri P. Bertsekas  
-Pattern Languages of Program Design, James O. Coplien  Douglas C. Schmidt  
-Pattern Languages of Program Design 2, John M. Vlissides  James O. Coplien  Norman L. Kerth  
-Pattern Languages of Program Design 3, Robert C. Martin  Dirk Riehle  Frank Buschmann  
-Pattern Languages of Program Design 4, Neil Harrison  Brian Foote  Hans Rohnert  
-Pattern Languages of Program Design 5, Dragos Manolescu  Markus Voelter  James Noble  
-Pattern-Oriented Software Architecture Volume 1: A System of Patterns, Frank Buschmann  Regine Meunier  Hans Rohnert  Peter Sommerlad  Michael Stal  
-Pattern-Oriented Software Architecture Volume 2: Patterns for Concurrent and Networked Objects, Douglas Schmidt  Michael Stal  Hans Rohnert  Frank Buschmann  
-Pattern-Oriented Software Architecture Volume 4: A Pattern Language for Distributed Computing, Frank Buschmann  Kevlin Henney  Douglas C. Schmidt  
-Patterns for Fault Tolerant Software, Robert Hanmer  
-Patterns for Parallel Programming, Timothy G. Mattson  Beverly A. Sanders  Berna L. Massingill  
-Patterns of Enterprise Application Architecture, Martin Fowler  
-Peopleware: Productive Projects and Teams, Tom DeMarco  Timothy Lister  
-Performance and Evaluation of Lisp Systems, Richard P. Gabriel  
-The Power of Events: An Introduction to Complex Event Processing in Distributed Enterprise Systems, David Luckham  
-Practical Common Lisp, Peter Seibel  
-Practical OCaml, Joshua B. Smith  
-The Practical Performance Analyst, Neil Gunther  
-Prefactoring: Extreme Abstraction  Extreme Separation  Extreme Readability, Ken Pugh  
-The Principles of Distributed Databases, M. Tamer Ozsu  Patrick Valduriez  
-Principles of Transaction Processing for the Systems Professional, Philip A. Bernstein  Eric Newcomer  
-Principles of the Business Rule Approach, Ronald G. Ross  
-Probabilistic Graphical Models: Principles and Techniques, Daphne Koller  Nir Friedman  
-Probability and Statistics with Reliability  Queueing  and Computer Science Applications  2nd Edition, Kishor Shridharbhai Trivedi  
-Problem-Solving Methods in Artificial Intelligence, nils nilsson  
-Programming Collective Intelligence: Building Smart Web 2.0 Applications, Toby Segaran  
-Programming Erlang: Software for a Concurrent World, Joe Armstrong  
-Programming Language Concepts 2/E, Carlo; Jazayeri  Mehdi Ghezzi  
-Programming Language Design Concepts, David A. Watt  
-Programming Language Pragmatics  Third Edition, Michael L. Scott  
-Programming Language Processors in Java: Compilers and Interpreters, David Watt  Deryck Brown  
-Programming Languages, Allen Tucker  Robert Noonan  
-Programming Languages: Concepts and Constructs, Ravi Sethi  
-Programming Languages: Principles and Practice, Kenneth C. Louden  
-Programming Paradigms in Lisp, Rajeev Sangal  
-Programming and Meta-Programming in Scheme, Jon Pearce  
-Programming for Artificial Intelligence: Methods  Tools  and Applications, Wolfgang Kreutzer  Bruce McKenzie  
-Programming in Haskell, Graham Hutton  
-Programming in Scheme: Trade Edition, Michael Eisenberg  Harold Abelson  
-Project Retrospectives: A Handbook for Team Reviews, Norman L. Kerth  
-Prolog Programming for Artificial Intelligence, Ivan Bratko  
-Prolog Programming: Applications for Database Systems  Expert Systems  and Natural Language Systems, Claudia Marcus  
-Purely Functional Data Structures, Chris Okasaki  
-Queueing Systems. Volume 1: Theory, Leonard Kleinrock  
-Queueing Systems. Volume 1: Theory, Leonard Kleinrock  
-REST in Practice: Hypermedia and Systems Architecture, Jim Webber  Savas Parastatidis  Ian Robinson  
-Radical Project Management, Rob Thomsett  
-The Reasoned Schemer, Daniel P. Friedman  William E. Byrd  Oleg Kiselyov  
-Refactoring: Improving the Design of Existing Code, Martin Fowler  Kent Beck  John Brant  William Opdyke  Don Roberts  
-Reinforcement Learning: An Introduction, Richard S. Sutton  Andrew G. Barto  
-Scenarios: The Art of Strategic Conversation, Kees van der Heijden  
-The Scheme Programming Language  4th Edition, R. Kent Dybvig  
-Scheme and the Art of Programming, George Springer  Daniel Friedman  
-The Sciences of the Artificial - 3rd Edition, Herbert A. Simon  
-The Seasoned Schemer, Daniel P. Friedman  Matthias Felleisen  
-Smalltalk 80: The Language, Adele Goldberg  David Robson  
-Software Agents, Jeffrey M. Bradshaw  
-Software Reliability: Principles and Practices, Glenford J. Myers  
-Software Tools, Brian W. Kernighan  P. J. Plauger  
-Squeak: Object-Oriented Design with Multimedia Applications, Mark J. Guzdial  
-Squeak: Open Personal Computing and Multimedia, Mark J. Guzdial  Kimberly M. Rose  
-Structure and Interpretation of Computer Programs - 2nd Edition, Harold Abelson  Gerald Jay Sussman  
-Successful Lisp: How to Understand and Use Common Lisp, David B. Lamkins  
-Symbolic Computing With Lisp and Prolog, Robert A. Mueller  Rex L. Page  
-Systems That Learn - 2nd Edition: An Introduction to Learning Theory, Sanjay Jain  Daniel N. Osherson  James S. Royer  Arun Sharma  
-TCP/IP Illustrated  Vol. 1: The Protocols, W. Richard Stevens  
-Text Mining Application Programming, Manu Konchady  
-The Thinking Computer: Mind Inside Matter, Bertram Raphael  
-Throughput Accounting, Thomas Corbett  
-To Mock a Mockingbird: And Other Logic Puzzles, Raymond M. Smullyan  
-The Toyota Way: 14 Management Principles from the World's Greatest Manufacturer/International Edition, Jeffrey K. Liker  
-Types and Programming Languages, Benjamin C. Pierce  
-The Unknowable, Gregory J. Chaitin  
-Web Protocols and Practice: HTTP/1.1  Networking Protocols  Caching  and Traffic Measurement, Balachander Krishnamurthy  Jennifer Rexford  
-Why Does Software Cost So Much?: And Other Puzzles of the Information Age, Tom Demarco  
-Writing Solid Code, Steve Maguire  
+Amazon Link, Title, Author
+http://www.amazon.ca/exec/obidos/ASIN/8120321413/ref=nosim/deliciousmons-22, ,  
+http://www.amazon.com/exec/obidos/ASIN/0262240297/ref=nosim/deliciousmons-20, ABCL: An Object-Oriented Concurrent System, Akinori Yonezawa  
+http://www.amazon.com/exec/obidos/ASIN/0262010925/ref=nosim/deliciousmons-20, ACTORS: A Model of Concurrent Computation in Distributed Systems, Gul Agha  
+http://www.amazon.com/exec/obidos/ASIN/0136070477/ref=nosim/deliciousmons-20, AI Algorithms  Data Structures  and Idioms in Prolog  Lisp  and Java, George F. Luger  William A Stubblefield  
+http://www.amazon.com/exec/obidos/ASIN/1584504218/ref=nosim/deliciousmons-20, AI Application Programming, M. Tim Jones  
+http://www.amazon.com/exec/obidos/ASIN/0133708756/ref=nosim/deliciousmons-20, ANSI Common LISP, Paul Graham  
+http://www.amazon.co.uk/exec/obidos/ASIN/8120323823/ref=nosim/deliciousmons-21, ARTIFICIAL INTELLIGENCE: A MODERN APPROACH, Russel  Norvig  
+http://www.amazon.com/exec/obidos/ASIN/0471202835/ref=nosim/deliciousmons-20, Agile Database Techniques: Effective Strategies for the Agile Software Developer, Scott Ambler  
+http://www.amazon.com/exec/obidos/ASIN/073561993X/ref=nosim/deliciousmons-20, Agile Project Management with Scrum, Ken Schwaber  
+http://www.amazon.com/exec/obidos/ASIN/0201699699/ref=nosim/deliciousmons-20, Agile Software Development, Alistair Cockburn  
+http://www.amazon.com/exec/obidos/ASIN/0130676349/ref=nosim/deliciousmons-20, Agile Software Development with Scrum, Ken Schwaber  Mike Beedle  
+http://www.amazon.com/exec/obidos/ASIN/0135974445/ref=nosim/deliciousmons-20, Agile Software Development  Principles  Patterns  and Practices, Robert C. Martin  
+http://www.amazon.com/exec/obidos/ASIN/0262530864/ref=nosim/deliciousmons-20, Algorithmic Skeletons: Structural Management of Parallel Computation, Murray I. Cole  
+http://www.amazon.com/exec/obidos/ASIN/1933988665/ref=nosim/deliciousmons-20, Algorithms of the Intelligent Web, Haralambos Marmanis  Dmitry Babenko  
+http://www.amazon.com/exec/obidos/ASIN/007001115X/ref=nosim/deliciousmons-20, Anatomy of Lisp, John Allen  
+http://www.amazon.com/exec/obidos/ASIN/0070355967/ref=nosim/deliciousmons-20, The Architecture of Symbolic Computers, Peter M. Kogge  
+http://www.amazon.com/exec/obidos/ASIN/071671938X/ref=nosim/deliciousmons-20, Armchair Universe, A.K. Dewdney  
+http://www.amazon.com/exec/obidos/ASIN/B003ZHB2RK/ref=nosim/deliciousmons-20, The Art and Science of Smalltalk, Simon Lewis  
+http://www.amazon.com/exec/obidos/ASIN/0471503363/ref=nosim/deliciousmons-20, The Art of Computer Systems Performance Analysis: Techniques for Experimental Design  Measurement  Simulation  and Modeling, R. K. Jain  
+http://www.amazon.com/exec/obidos/ASIN/0201517973/ref=nosim/deliciousmons-20, The Art of Human-Computer Interface Design, Brenda Laurel  
+http://www.amazon.com/exec/obidos/ASIN/0123705916/ref=nosim/deliciousmons-20, The Art of Multiprocessor Programming, Maurice Herlihy  Nir Shavit  
+http://www.amazon.com/exec/obidos/ASIN/0596007868/ref=nosim/deliciousmons-20, The Art of Project Management, Scott Berkun  
+http://www.amazon.com/exec/obidos/ASIN/0262610744/ref=nosim/deliciousmons-20, The Art of the Metaobject Protocol, Gregor Kiczales  Jim des Rivieres  Daniel G. Bobrow  
+http://www.amazon.com/exec/obidos/ASIN/0262531151/ref=nosim/deliciousmons-20, Artificial Experts: Social Knowledge and Intelligent Machines, H. M. Collins  
+http://www.amazon.com/exec/obidos/ASIN/B0017KNMCK/ref=nosim/deliciousmons-20, Artificial Intelligence, Elaine Rich  
+http://www.amazon.com/exec/obidos/ASIN/0070522634/ref=nosim/deliciousmons-20, Artificial Intelligence, Elaine Rich  Kevin Knight  
+http://www.amazon.com/exec/obidos/ASIN/8122416616/ref=nosim/deliciousmons-20, Artificial Intelligence, Christopher Thornton  
+http://www.amazon.com/exec/obidos/ASIN/0201533774/ref=nosim/deliciousmons-20, Artificial Intelligence, Winston  
+http://www.amazon.com/exec/obidos/ASIN/0538726970/ref=nosim/deliciousmons-20, The Artificial Intelligence Handbook: Business Applications, Joel G. Siegel  Jae K. Shim  
+http://www.amazon.com/exec/obidos/ASIN/0763732303/ref=nosim/deliciousmons-20, Artificial Intelligence Illuminated, Ben Coppin  
+http://www.amazon.com/exec/obidos/ASIN/0898596092/ref=nosim/deliciousmons-20, Artificial Intelligence Programming, Eugene Charniak  Christopher K. Riesbeck  Drew V. McDermott  James R. Meehan  
+http://www.amazon.com/exec/obidos/ASIN/0262521237/ref=nosim/deliciousmons-20, Artificial Intelligence and Natural Man  Second Edition, Margaret A. Boden  
+http://www.amazon.com/exec/obidos/ASIN/0321204662/ref=nosim/deliciousmons-20, Artificial Intelligence: A Guide to Intelligent Systems, Michael Negnevitsky  
+http://www.amazon.com/exec/obidos/ASIN/047190581X/ref=nosim/deliciousmons-20, Artificial Intelligence: Concepts  Techniques  and Applications, Yoshiaki Shirai  J. Tsujii  
+http://www.amazon.com/exec/obidos/ASIN/0321263189/ref=nosim/deliciousmons-20, Artificial Intelligence: Structures and Strategies for Complex Problem Solving, George F. Luger  
+http://www.amazon.com/exec/obidos/ASIN/006041894X/ref=nosim/deliciousmons-20, Artificial Intelligence: Tools  Techniques and Applications, Tim O'Shea  M. Eistenstadt  
+http://www.amazon.com/exec/obidos/ASIN/0201525712/ref=nosim/deliciousmons-20, Artificial Life II, Christopher G. Langton  Charles Taylor  J. Doyne Farmer  Steen Rasmussen  
+http://www.amazon.com/exec/obidos/ASIN/020162494X/ref=nosim/deliciousmons-20, Artificial Life III, Christopher G. Langton  
+http://www.amazon.com/exec/obidos/ASIN/0262621126/ref=nosim/deliciousmons-20, Artificial Life: An Overview, Christopher G. Langton  
+http://www.amazon.com/exec/obidos/ASIN/0130534714/ref=nosim/deliciousmons-20, Automatic Natural Language Parsing, Karen Sparck Jones  Yorick Wilks  
+http://www.amazon.com/exec/obidos/ASIN/0596510047/ref=nosim/deliciousmons-20, Beautiful Code: Leading Programmers Explain How They Think, Andy Oram  Greg Wilson  
+http://www.amazon.com/exec/obidos/ASIN/1590595009/ref=nosim/deliciousmons-20, The Best Software Writing I: Selected and Introduced by Joel Spolsky, Joel Spolsky  
+http://www.amazon.com/exec/obidos/ASIN/0201719606/ref=nosim/deliciousmons-20, Beyond Chaos: The Expert Edge in Managing Software Development, Larry L. Constantine  
+http://www.amazon.com/exec/obidos/ASIN/0201775948/ref=nosim/deliciousmons-20, Beyond Software Architecture: Creating and Sustaining Winning Solutions, Luke Hohmann  
+http://www.amazon.com/exec/obidos/ASIN/1558607838/ref=nosim/deliciousmons-20, Blondie24: Playing at the Edge of AI, David B. Fogel  
+http://www.amazon.com/exec/obidos/ASIN/047020172X/ref=nosim/deliciousmons-20, Build Your Own Expert System, Chris Naylor  
+http://www.amazon.com/exec/obidos/ASIN/0201719622/ref=nosim/deliciousmons-20, Building Parsers With Java, Steven John Metsker  
+http://www.amazon.com/exec/obidos/ASIN/0262061570/ref=nosim/deliciousmons-20, Building Problem Solvers, Kenneth D. Forbus  Johan de Kleer  
+http://www.amazon.com/exec/obidos/ASIN/0596102356/ref=nosim/deliciousmons-20, Building Scalable Web Sites: Building  Scaling  and Optimizing the Next Generation of Web Applications, Cal Henderson  
+http://www.amazon.com/exec/obidos/ASIN/0130659037/ref=nosim/deliciousmons-20, Capacity Planning for Web Services: Metrics  Models  and Methods, Daniel A. Menasce  Virgilio A.F. Almeida  
+http://www.amazon.com/exec/obidos/ASIN/0521773628/ref=nosim/deliciousmons-20, Causality: Models  Reasoning  and Inference, Judea Pearl  
+http://www.amazon.com/exec/obidos/ASIN/3540629718/ref=nosim/deliciousmons-20, Clause and Effect: Prolog Programming for the Working Programmer, William F. Clocksin  
+http://www.amazon.com/exec/obidos/ASIN/0735619670/ref=nosim/deliciousmons-20, Code Complete: A Practical Handbook of Software Construction, Steve McConnell  
+http://www.amazon.com/exec/obidos/ASIN/1933988312/ref=nosim/deliciousmons-20, Collective Intelligence in Action, Satnam Alag  
+http://www.amazon.com/exec/obidos/ASIN/0486402584/ref=nosim/deliciousmons-20, Combinatorial Optimization: Algorithms and Complexity, Christos H. Papadimitriou  Kenneth Steiglitz  
+http://www.amazon.com/exec/obidos/ASIN/0393955443/ref=nosim/deliciousmons-20, Common LISPcraft, Robert Wilensky  
+http://www.amazon.com/exec/obidos/ASIN/0486458806/ref=nosim/deliciousmons-20, Communication Nets: Stochastic Message Flow and Delay, Leonard Kleinrock  
+http://www.amazon.com/exec/obidos/ASIN/0321486811/ref=nosim/deliciousmons-20, Compilers: Principles  Techniques  and Tools, Alfred V. Aho  Monica S. Lam  Ravi Sethi  Jeffrey D. Ullman  
+http://www.amazon.com/exec/obidos/ASIN/047149111X/ref=nosim/deliciousmons-20, Computer Applications  Volume 2  Queueing Systems, Leonard Kleinrock  
+http://www.amazon.com/exec/obidos/ASIN/4871878058/ref=nosim/deliciousmons-20, Computer Gamesmanship, David N. L. Levy  
+http://www.amazon.com/exec/obidos/ASIN/0471798142/ref=nosim/deliciousmons-20, Computer Science Reconsidered: The Invocation Model of Process Expression, Karl M. Fant  
+http://www.amazon.com/exec/obidos/ASIN/0195062825/ref=nosim/deliciousmons-20, Computers and Human Language, George W. Smith  
+http://www.amazon.com/exec/obidos/ASIN/0262220695/ref=nosim/deliciousmons-20, Concepts  Techniques  and Models of Computer Programming, Peter Van Roy  Seif Haridi  
+http://www.amazon.com/exec/obidos/ASIN/0534952119/ref=nosim/deliciousmons-20, Concrete Abstractions: An Introduction to Computer Science Using Scheme, Max Hailperin  Barbara Kaiser  Karl Knight  
+http://www.amazon.com/exec/obidos/ASIN/0471987107/ref=nosim/deliciousmons-20, Concurrency: State Models & Java Programs, Jeff Magee  Jeff Kramer  
+http://www.amazon.com/exec/obidos/ASIN/0262580977/ref=nosim/deliciousmons-20, The Connection Machine, W. Danny Hillis  
+http://www.amazon.com/exec/obidos/ASIN/0471597538/ref=nosim/deliciousmons-20, Constructing Language Processors for Little Languages, Randy M. Kaplan  
+http://www.amazon.com/exec/obidos/ASIN/0787967076/ref=nosim/deliciousmons-20, The Contrarian's Guide to Leadership, Steven B. Sample  
+http://www.amazon.com/exec/obidos/ASIN/0884271536/ref=nosim/deliciousmons-20, Critical Chain, Eliyahu M. Goldratt  
+http://www.amazon.com/exec/obidos/ASIN/0932633293/ref=nosim/deliciousmons-20, Data Model Patterns: Conventions of Thought, David C. Hay  
+http://www.amazon.com/exec/obidos/ASIN/0130146595/ref=nosim/deliciousmons-20, Death March: The Complete Software Developer's Guide to Surviving 'Mission Impossible' Projects, Edward Yourdon  
+http://www.amazon.com/exec/obidos/ASIN/0024216917/ref=nosim/deliciousmons-20, Decision Support and Expert Systems Ma, Efraim Turban  
+http://www.amazon.com/exec/obidos/ASIN/0884271633/ref=nosim/deliciousmons-20, Deming and Goldratt, Domenico Lepore  Oded Cohen  
+http://www.amazon.com/exec/obidos/ASIN/0262201755/ref=nosim/deliciousmons-20, Design Concepts in Programming Languages, Franklyn A. Turbak  David K. Gifford  
+http://www.amazon.com/exec/obidos/ASIN/013215871X/ref=nosim/deliciousmons-20, A Discipline of Programming, Edsger W. Dijkstra  
+http://www.amazon.com/exec/obidos/ASIN/8178672405/ref=nosim/deliciousmons-20, Distributed Algorithms,  
+http://www.amazon.com/exec/obidos/ASIN/3540326510/ref=nosim/deliciousmons-20, Distributed Event-Based Systems, Gero Mühl  Ludger Fiege  Peter Pietzuch  
+http://www.amazon.com/exec/obidos/ASIN/0321263545/ref=nosim/deliciousmons-20, Distributed Systems: Concepts and Design, Jean Dollimore  Tim Kindberg  George Coulouris  
+http://www.amazon.com/exec/obidos/ASIN/0132392275/ref=nosim/deliciousmons-20, Distributed Systems: Principles and Paradigms, Andrew S. Tanenbaum  Maarten Van Steen  
+http://www.amazon.com/exec/obidos/ASIN/0321125215/ref=nosim/deliciousmons-20, Domain-Driven Design: Tackling Complexity in the Heart of Software, Eric Evans  
+http://www.amazon.com/exec/obidos/ASIN/0321712943/ref=nosim/deliciousmons-20, Domain-Specific Languages, Martin Fowler  
+http://www.amazon.com/exec/obidos/ASIN/1400082463/ref=nosim/deliciousmons-20, Dreaming in Code: Two Dozen Programmers  Three Years  4 732 Bugs  and One Quest for Transcendent Software, Scott Rosenberg  
+http://www.amazon.com/exec/obidos/ASIN/B00005TNXB/ref=nosim/deliciousmons-20, Dynamics of Software Development, Jim McCarthy  Denis Gilbert  
+http://www.amazon.com/exec/obidos/ASIN/0716782693/ref=nosim/deliciousmons-20, The Elements of Artificial Intelligence Using Common Lisp, Steven L. Tanimoto  
+http://www.amazon.com/exec/obidos/ASIN/032163537X/ref=nosim/deliciousmons-20, Elements of Programming, Alexander Stepanov  Paul McJones  
+http://www.amazon.com/exec/obidos/ASIN/0262032252/ref=nosim/deliciousmons-20, Empirical Methods for Artificial Intelligence, Paul R. Cohen  
+http://www.amazon.com/exec/obidos/ASIN/0321200683/ref=nosim/deliciousmons-20, Enterprise Integration Patterns: Designing  Building  and Deploying Messaging Solutions, Gregor Hohpe  Bobby Woolf  
+http://www.amazon.com/exec/obidos/ASIN/0135717795/ref=nosim/deliciousmons-20, The Essence of Artificial Intelligence, Alison Cawsey  
+http://www.amazon.com/exec/obidos/ASIN/0201111489/ref=nosim/deliciousmons-20, Essential Lisp, John R. Anderson  Albert Corbett  Brian J. Reiser  
+http://www.amazon.com/exec/obidos/ASIN/0596522304/ref=nosim/deliciousmons-20, Even Faster Web Sites: Performance Best Practices for Web Developers, Steve Souders  
+http://www.amazon.com/exec/obidos/ASIN/1590596439/ref=nosim/deliciousmons-20, Event-Based Programming: Taking Events to the Limit, Ted Faison  
+http://www.amazon.com/exec/obidos/ASIN/0672217856/ref=nosim/deliciousmons-20, Experiments in artificial intelligence for small computers, John Krutch  
+http://www.amazon.com/exec/obidos/ASIN/0534384471/ref=nosim/deliciousmons-20, Expert Systems: Principles and Programming  Fourth Edition, Joseph C. Giarratano  Gary D. Riley  
+http://www.amazon.com/exec/obidos/ASIN/0201616416/ref=nosim/deliciousmons-20, Extreme Programming Explained: Embrace Change, Kent Beck  
+http://www.amazon.com/exec/obidos/ASIN/048627263X/ref=nosim/deliciousmons-20, Flatland: A Romance of Many Dimensions, Edwin A. Abbott  
+http://www.amazon.com/exec/obidos/ASIN/1871516498/ref=nosim/deliciousmons-20, Formalizing Common Sense: Papers By John Mccarthy, Vladimir Lifschitz  John McCarthy  
+http://www.amazon.com/exec/obidos/ASIN/0521576814/ref=nosim/deliciousmons-20, The Functional Approach to Programming, Guy Cousineau  Michel Mauny  
+http://www.amazon.com/exec/obidos/ASIN/0133315797/ref=nosim/deliciousmons-20, Functional Programming Application and Implementation, Peter Henderson  
+http://www.amazon.com/exec/obidos/ASIN/0262610574/ref=nosim/deliciousmons-20, Functional Programming for Loosely-Coupled Multiprocessors, Paul H. J. Kelly  
+http://www.amazon.com/exec/obidos/ASIN/0201137445/ref=nosim/deliciousmons-20, Functional Programming: Practice and Theory, Bruce J. Maclennan  
+http://www.amazon.co.uk/exec/obidos/ASIN/8120322398/ref=nosim/deliciousmons-21, Fundamentals Of Parallel Processing, JORDAN HARRY  ALAGHBAND GITA  
+http://www.amazon.com/exec/obidos/ASIN/0669194735/ref=nosim/deliciousmons-20, Fundamentals of Artificial Intelligence - Lisp, James Noyes  
+http://www.amazon.com/exec/obidos/ASIN/0914894838/ref=nosim/deliciousmons-20, Fuzzy Sets  Natural Language Computations  and Risk Analysis, Kurt J. Schmucker  
+http://www.amazon.com/exec/obidos/ASIN/0486296725/ref=nosim/deliciousmons-20, Game Theory: A Nontechnical Introduction, Morton D. Davis  
+http://www.amazon.com/exec/obidos/ASIN/0201309777/ref=nosim/deliciousmons-20, Generative Programming: Methods  Tools  and Applications, Krysztof Czarnecki  Ulrich Eisenecker  
+http://www.amazon.com/exec/obidos/ASIN/0201157675/ref=nosim/deliciousmons-20, Genetic Algorithms in Search  Optimization  and Machine Learning, David E. Goldberg  
+http://www.amazon.com/exec/obidos/ASIN/013924218X/ref=nosim/deliciousmons-20, Global Software Teams: Colloborating Across Borders and Time Zones, Erran Carmel  
+http://www.amazon.com/exec/obidos/ASIN/0805813667/ref=nosim/deliciousmons-20, Goal-based Decision Making: An Interpersonal Model, Stephen Slade  
+http://www.amazon.com/exec/obidos/ASIN/0465026567/ref=nosim/deliciousmons-20, Gödel  Escher  Bach: An Eternal Golden Braid, Douglas R. Hofstadter  
+http://www.amazon.com/exec/obidos/ASIN/0262522233/ref=nosim/deliciousmons-20, Great Ideas in Computer Science - 2nd Edition: A Gentle Introduction, Alan W. Biermann  
+http://www.amazon.com/exec/obidos/ASIN/1565925092/ref=nosim/deliciousmons-20, HTTP: The Definitive Guide, David Gourley  Brian Totty  
+http://www.amazon.com/exec/obidos/ASIN/0201914654/ref=nosim/deliciousmons-20, Hacker's Delight, Henry S. Warren  
+http://www.amazon.com/exec/obidos/ASIN/0596006624/ref=nosim/deliciousmons-20, Hackers and Painters: Big Ideas from the Computer Age, Paul Graham  
+http://www.amazon.com/exec/obidos/ASIN/0521644089/ref=nosim/deliciousmons-20, The Haskell School of Expression: Learning Functional Programming through Multimedia, Paul Hudak  
+http://www.amazon.com/exec/obidos/ASIN/0201342758/ref=nosim/deliciousmons-20, Haskell: The Craft of Functional Programming, Simon Thompson  
+http://www.amazon.com/exec/obidos/ASIN/0201442302/ref=nosim/deliciousmons-20, Hidden Order: How Adaptation Builds Complexity, John Holland  
+http://www.amazon.com/exec/obidos/ASIN/0596529309/ref=nosim/deliciousmons-20, High Performance Web Sites: Essential Knowledge for Front-End Engineers, Steve Souders  
+http://www.amazon.com/exec/obidos/ASIN/0130161640/ref=nosim/deliciousmons-20, High-Performance Java Platform Computing: Multithreaded and Networked Programming, Thomas W. Christopher  George K.  Ph.D. Thiruvathukal  
+http://www.amazon.com/exec/obidos/ASIN/0262062186/ref=nosim/deliciousmons-20, How to Design Programs: An Introduction to Programming and Computing, Matthias Felleisen  Robert Bruce Findler  Matthew Flatt  Shriram Krishnamurthi  
+http://www.amazon.com/exec/obidos/ASIN/0134340019/ref=nosim/deliciousmons-20, How to Solve It by Computer, R. G. Dromey  
+http://www.amazon.com/exec/obidos/ASIN/3540660615/ref=nosim/deliciousmons-20, How to Solve It: Modern Heuristics, Zbigniew Michalewicz  David B. Fogel  
+http://www.amazon.com/exec/obidos/ASIN/0805072551/ref=nosim/deliciousmons-20, How to Think About Statistics  6th Edition, John L. Phillips  
+http://www.amazon.com/exec/obidos/ASIN/0321437381/ref=nosim/deliciousmons-20, Implementing Lean Software Development: From Concept to Cash, Mary Poppendieck  Tom Poppendieck  
+http://www.amazon.com/exec/obidos/ASIN/0262192942/ref=nosim/deliciousmons-20, Innovative Applications of Artificial Intelligence, Herbert Schorr  Alain Rappaport  
+http://www.amazon.com/exec/obidos/ASIN/0262680688/ref=nosim/deliciousmons-20, Innovative Applications of Artificial Intelligence 2, Alain Rappaport  Reid Smith  
+http://www.amazon.com/exec/obidos/ASIN/0262691485/ref=nosim/deliciousmons-20, Innovative Applications of Artificial Intelligence 3, Reid Smith  A. Carlisle Scott  
+http://www.amazon.com/exec/obidos/ASIN/0262691558/ref=nosim/deliciousmons-20, Innovative Applications of Artificial Intelligence 4, A. Carlisle Scott  Philip Klahr  
+http://www.amazon.com/exec/obidos/ASIN/1558604200/ref=nosim/deliciousmons-20, Intelligent Java Applications for the Internet and Intranets, Mark Watson  
+http://www.amazon.co.uk/exec/obidos/ASIN/8120324587/ref=nosim/deliciousmons-21, Introduction To Ai Robotics, MURPHY ROBIN R.  
+http://www.amazon.com/exec/obidos/ASIN/0072970545/ref=nosim/deliciousmons-20, Introduction to Algorithms, Thomas Cormen  Charles Leiserson  Ronald Rivest  Clifford Stein  
+http://www.amazon.com/exec/obidos/ASIN/0127748601/ref=nosim/deliciousmons-20, Introduction to Common Lisp, Taichi Yuasa et  
+http://www.amazon.com/exec/obidos/ASIN/0471137723/ref=nosim/deliciousmons-20, Introduction to Computer Theory, Daniel I. A. Cohen  
+http://www.amazon.com/exec/obidos/ASIN/0521794838/ref=nosim/deliciousmons-20, Introduction to Distributed Algorithms, Tel Gerard  
+http://www.amazon.com/exec/obidos/ASIN/0521277248/ref=nosim/deliciousmons-20, Introduction to Functional Programming Systems Using Haskell, Antony J. T. Davie  
+http://www.amazon.com/exec/obidos/ASIN/0521865719/ref=nosim/deliciousmons-20, Introduction to Information Retrieval, Manning Christopher D.  Raghavan Prabhakar  Schütze Hinrich  
+http://www.amazon.com/exec/obidos/ASIN/0134861922/ref=nosim/deliciousmons-20, An Introduction to Lisp and Symbol Manipulation, Sharam Hekmatpour  
+http://www.amazon.com/exec/obidos/ASIN/0136141390/ref=nosim/deliciousmons-20, Introduction to Logic, Irving M. Copi  Carl Cohen  
+http://www.amazon.com/exec/obidos/ASIN/0262012111/ref=nosim/deliciousmons-20, Introduction to Machine Learning, Ethem Alpaydin  
+http://www.amazon.com/exec/obidos/ASIN/0470519460/ref=nosim/deliciousmons-20, An Introduction to MultiAgent Systems, Michael Wooldridge  
+http://www.amazon.com/exec/obidos/ASIN/1882114566/ref=nosim/deliciousmons-20, An Introduction to Programming in Emacs Lisp, Robert J. Chassell  
+http://www.amazon.com/exec/obidos/ASIN/3540288457/ref=nosim/deliciousmons-20, Introduction to Reliable Distributed Programming, Rachid Guerraoui  Luís Rodrigues  
+http://www.amazon.com/exec/obidos/ASIN/3000236457/ref=nosim/deliciousmons-20, An Introduction to Seaside,  
+http://www.amazon.com/exec/obidos/ASIN/0534950973/ref=nosim/deliciousmons-20, Introduction to the Theory of Computation, Michael Sipser  
+http://www.amazon.com/exec/obidos/ASIN/0884271153/ref=nosim/deliciousmons-20, It's Not Luck, Eliyahu M. Goldratt  
+http://www.amazon.com/exec/obidos/ASIN/0321349601/ref=nosim/deliciousmons-20, Java Concurrency in Practice, Brian Goetz  Tim Peierls  Joshua Bloch  Joseph Bowbeer  David Holmes  Doug Lea  
+http://www.amazon.com/exec/obidos/ASIN/1590593898/ref=nosim/deliciousmons-20, Joel on Software: And on Diverse and Occasionally Related Matters That Will Prove of Interest to Software Developers  Designers  and Managers  and to Those Who  Whether by Good Fortune or Ill Luck  Work with Them in Some Capacity, Joel Spolsky  
+http://www.amazon.com/exec/obidos/ASIN/0262660709/ref=nosim/deliciousmons-20, Knowledge Discovery in Databases, Gregory Piatetsky-Shapiro  William J. Frawley  
+http://www.amazon.com/exec/obidos/ASIN/1558609326/ref=nosim/deliciousmons-20, Knowledge Representation and Reasoning, Ronald Brachman  Hector Levesque  
+http://www.amazon.com/exec/obidos/ASIN/0262570807/ref=nosim/deliciousmons-20, Languages and Compilers for Parallel Computing, David Gelernter  Alexandru Nicolau  David Padua  
+http://www.amazon.com/exec/obidos/ASIN/1419644068/ref=nosim/deliciousmons-20, Lean Project Management: Eight Principles For Success, Lawrence P. Leach  
+http://www.amazon.com/exec/obidos/ASIN/1563273055/ref=nosim/deliciousmons-20, Lean Software Strategies: Proven Techniques for Managers and Developers, Peter Middleton  James Sutton  
+http://www.amazon.com/exec/obidos/ASIN/0743231643/ref=nosim/deliciousmons-20, Lean Thinking: Banish Waste and Create Wealth in Your Corporation, James P. Womack  Daniel T. Jones  
+http://www.amazon.com/exec/obidos/ASIN/1435712757/ref=nosim/deliciousmons-20, Let Over Lambda, Doug Hoyte  
+http://www.amazon.com/exec/obidos/ASIN/0135327628/ref=nosim/deliciousmons-20, Let's Talk LISP, Laurent Siklossy  
+http://www.amazon.com/exec/obidos/ASIN/0201083191/ref=nosim/deliciousmons-20, Lisp, Patrick Winston  Berthold Horn  
+http://www.amazon.com/exec/obidos/ASIN/0521545668/ref=nosim/deliciousmons-20, Lisp in Small Pieces, Christian Queinnec  
+http://www.amazon.com/exec/obidos/ASIN/0673397734/ref=nosim/deliciousmons-20, Lisp  Objects and Symbolic Programming, Robert R. Kessler  
+http://www.amazon.com/exec/obidos/ASIN/0442209746/ref=nosim/deliciousmons-20, Lisp: The Language of Artificial Intelligence, A. A. Berk  
+http://www.amazon.com/exec/obidos/ASIN/026256114X/ref=nosim/deliciousmons-20, The Little MLer, Matthias Felleisen  Daniel P. Friedman  
+http://www.amazon.com/exec/obidos/ASIN/0262560992/ref=nosim/deliciousmons-20, The Little Schemer - 4th Edition, Daniel P. Friedman  Matthias Felleisen  
+http://www.amazon.com/exec/obidos/ASIN/0387517286/ref=nosim/deliciousmons-20, Logic Programming and Databases, Stefano Ceri  G. Gottlob  L. Tanca  
+http://www.amazon.com/exec/obidos/ASIN/0201120801/ref=nosim/deliciousmons-20, Looking at Lisp, Tony Hasemer  
+http://www.amazon.com/exec/obidos/ASIN/032119442X/ref=nosim/deliciousmons-20, MDA Explained: The Model Driven Architecture(TM): Practice and Promise, Anneke Kleppe  Jos Warmer  Wim Bast  
+http://www.amazon.com/exec/obidos/ASIN/052156543X/ref=nosim/deliciousmons-20, ML for the Working Programmer, Lawrence C. Paulson  
+http://www.amazon.com/exec/obidos/ASIN/1556150105/ref=nosim/deliciousmons-20, Machinery of the Mind: Inside the New Science of Artificial Intelligence, George Johnson  
+http://www.amazon.com/exec/obidos/ASIN/0716721449/ref=nosim/deliciousmons-20, The Magic Machine: A Handbook of Computer Sorcery, A. K. Dewdney  
+http://www.amazon.com/exec/obidos/ASIN/0195172116/ref=nosim/deliciousmons-20, Managing Business Complexity: Discovering Strategic Solutions with Agent-Based Modeling and Simulation, Michael J. North  Charles M. Macal  
+http://www.amazon.com/exec/obidos/ASIN/159059844X/ref=nosim/deliciousmons-20, Managing Humans: Biting and Humorous Tales of a Software Engineering Manager, Michael Lopp  
+http://www.amazon.com/exec/obidos/ASIN/0071374299/ref=nosim/deliciousmons-20, The McKinsey Mind: Understanding and Implementing the Problem-Solving Tools and Management Techniques of the World's Top Strategic Consulting Firm, Ethan Rasiel  Ph.D. Paul N. Friga  
+http://www.amazon.com/exec/obidos/ASIN/0070534489/ref=nosim/deliciousmons-20, The McKinsey Way, Ethan Rasiel  
+http://www.amazon.com/exec/obidos/ASIN/1574442465/ref=nosim/deliciousmons-20, The Measurement Nightmare: How the Theory of Constraints Can Resolve Conflicting Strategies  Policies  and Measures, Debra Smith  
+http://www.amazon.com/exec/obidos/ASIN/0465030912/ref=nosim/deliciousmons-20, The Mind's I: Fantasies and Reflections on Self & Soul, Daniel C. Dennett  Douglas R. Hofstadter  
+http://www.amazon.com/exec/obidos/ASIN/1558607544/ref=nosim/deliciousmons-20, Mining the Web: Discovering Knowledge from Hypertext Data, Soumen Chakrabarti  
+http://www.amazon.com/exec/obidos/ASIN/8175960728/ref=nosim/deliciousmons-20, Modern Compiler Implementation in Java, Andrew W. Appel  
+http://www.amazon.com/exec/obidos/ASIN/0521899435/ref=nosim/deliciousmons-20, Multiagent Systems: Algorithmic  Game-Theoretic  and Logical Foundations, Yoav Shoham  Kevin Leyton-Brown  
+http://www.amazon.com/exec/obidos/ASIN/0805303340/ref=nosim/deliciousmons-20, Natural Language Understanding, James Allen  
+http://www.amazon.com/exec/obidos/ASIN/0566084503/ref=nosim/deliciousmons-20, Necessary but Not Sufficient: A Theory of Constraints Business Novel, Eliyahu M. Goldratt  Eli Schragenheim  Carol A. Ptak  
+http://www.amazon.com/exec/obidos/ASIN/0262132001/ref=nosim/deliciousmons-20, Nested Transactions: An Approach to Reliable Distributed Computing, J. Eliot B. Moss  
+http://www.amazon.com/exec/obidos/ASIN/0887304419/ref=nosim/deliciousmons-20, The New Intelligence: Artificial Intelligence Ideas and Applications in Financial Services, Jessica Keyes  
+http://www.amazon.com/exec/obidos/ASIN/1579550088/ref=nosim/deliciousmons-20, A New Kind of Science, Stephen Wolfram  
+http://www.amazon.com/exec/obidos/ASIN/0716782715/ref=nosim/deliciousmons-20, New Turing Omnibus, A.K. Dewdney  
+http://www.amazon.com/exec/obidos/ASIN/0201379430/ref=nosim/deliciousmons-20, Object Design: Roles  Responsibilities  and Collaborations, Rebecca Wirfs-Brock  Alan McKean  
+http://www.amazon.com/exec/obidos/ASIN/0134724321/ref=nosim/deliciousmons-20, Object Lessons: Lessons Learned in Object-Oriented Development Projects, Tom Love  
+http://www.amazon.com/exec/obidos/ASIN/0136299407/ref=nosim/deliciousmons-20, Object Life Cycles: Modeling the World In States, Stephen J. Mellor  Sally Shlaer  
+http://www.amazon.com/exec/obidos/ASIN/0138401179/ref=nosim/deliciousmons-20, Object Models: Strategies  Patterns  and Applications, Peter Coad  David North  Mark Mayfield  
+http://www.amazon.com/exec/obidos/ASIN/0136059406/ref=nosim/deliciousmons-20, Object-Oriented Common LISP, Stephen Slade  
+http://www.amazon.com/exec/obidos/ASIN/0262240262/ref=nosim/deliciousmons-20, Object-Oriented Concurrent Programming, Akinori Yonezawa  Mario Tokoro  
+http://www.amazon.com/exec/obidos/ASIN/1558606874/ref=nosim/deliciousmons-20, Object-Oriented Construction Handbook: Developing Application-Oriented Software with the Tools & Materials Approach, Heinz ZÃ¼llighoven  
+http://www.amazon.com/exec/obidos/ASIN/0201175894/ref=nosim/deliciousmons-20, Object-Oriented Programming in Common Lisp: A Programmer's Guide to CLOS, Sonya E. Keene  
+http://www.amazon.com/exec/obidos/ASIN/0262661756/ref=nosim/deliciousmons-20, Object-Oriented Programming: The CLOS Perspective, Andreas Paepcke  
+http://www.amazon.com/exec/obidos/ASIN/1558601910/ref=nosim/deliciousmons-20, Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp, Peter Norvig  
+http://www.amazon.com/exec/obidos/ASIN/0070512949/ref=nosim/deliciousmons-20, Parallel Computing: Theory and Practice, Michael J. Quinn  
+http://www.amazon.com/exec/obidos/ASIN/0387527826/ref=nosim/deliciousmons-20, Parallel Lisp: Languages and Systems, Us  Japan Workshop on Parallel Lisp  T. Ito  Robert H. Halstead  R. H.  Jr. Halstead  
+http://www.amazon.com/exec/obidos/ASIN/0070316066/ref=nosim/deliciousmons-20, Parallel Processing for Supercomputers and Artificial Intelligence, Kai Hwang  Doug Degroot  
+http://www.amazon.com/exec/obidos/ASIN/0131405632/ref=nosim/deliciousmons-20, Parallel Programming: Techniques and Applications Using Networked Workstations and Parallel Computers, Barry Wilkinson  Michael Allen  
+http://www.amazon.com/exec/obidos/ASIN/1886529019/ref=nosim/deliciousmons-20, Parallel and Distributed Computation: Numerical Methods, Dimitri P. Bertsekas  
+http://www.amazon.com/exec/obidos/ASIN/0201607344/ref=nosim/deliciousmons-20, Pattern Languages of Program Design, James O. Coplien  Douglas C. Schmidt  
+http://www.amazon.com/exec/obidos/ASIN/0201895277/ref=nosim/deliciousmons-20, Pattern Languages of Program Design 2, John M. Vlissides  James O. Coplien  Norman L. Kerth  
+http://www.amazon.com/exec/obidos/ASIN/0201310112/ref=nosim/deliciousmons-20, Pattern Languages of Program Design 3, Robert C. Martin  Dirk Riehle  Frank Buschmann  
+http://www.amazon.com/exec/obidos/ASIN/0201433044/ref=nosim/deliciousmons-20, Pattern Languages of Program Design 4, Neil Harrison  Brian Foote  Hans Rohnert  
+http://www.amazon.com/exec/obidos/ASIN/0321321944/ref=nosim/deliciousmons-20, Pattern Languages of Program Design 5, Dragos Manolescu  Markus Voelter  James Noble  
+http://www.amazon.com/exec/obidos/ASIN/0471958697/ref=nosim/deliciousmons-20, Pattern-Oriented Software Architecture Volume 1: A System of Patterns, Frank Buschmann  Regine Meunier  Hans Rohnert  Peter Sommerlad  Michael Stal  
+http://www.amazon.com/exec/obidos/ASIN/0471606952/ref=nosim/deliciousmons-20, Pattern-Oriented Software Architecture Volume 2: Patterns for Concurrent and Networked Objects, Douglas Schmidt  Michael Stal  Hans Rohnert  Frank Buschmann  
+http://www.amazon.com/exec/obidos/ASIN/0470059028/ref=nosim/deliciousmons-20, Pattern-Oriented Software Architecture Volume 4: A Pattern Language for Distributed Computing, Frank Buschmann  Kevlin Henney  Douglas C. Schmidt  
+http://www.amazon.com/exec/obidos/ASIN/0470319798/ref=nosim/deliciousmons-20, Patterns for Fault Tolerant Software, Robert Hanmer  
+http://www.amazon.com/exec/obidos/ASIN/0321228111/ref=nosim/deliciousmons-20, Patterns for Parallel Programming, Timothy G. Mattson  Beverly A. Sanders  Berna L. Massingill  
+http://www.amazon.com/exec/obidos/ASIN/0321127420/ref=nosim/deliciousmons-20, Patterns of Enterprise Application Architecture, Martin Fowler  
+http://www.amazon.com/exec/obidos/ASIN/0932633439/ref=nosim/deliciousmons-20, Peopleware: Productive Projects and Teams, Tom DeMarco  Timothy Lister  
+http://www.amazon.com/exec/obidos/ASIN/0262070936/ref=nosim/deliciousmons-20, Performance and Evaluation of Lisp Systems, Richard P. Gabriel  
+http://www.amazon.com/exec/obidos/ASIN/0201727897/ref=nosim/deliciousmons-20, The Power of Events: An Introduction to Complex Event Processing in Distributed Enterprise Systems, David Luckham  
+http://www.amazon.com/exec/obidos/ASIN/1590592395/ref=nosim/deliciousmons-20, Practical Common Lisp, Peter Seibel  
+http://www.amazon.com/exec/obidos/ASIN/159059620X/ref=nosim/deliciousmons-20, Practical OCaml, Joshua B. Smith  
+http://www.amazon.com/exec/obidos/ASIN/059512674X/ref=nosim/deliciousmons-20, The Practical Performance Analyst, Neil Gunther  
+http://www.amazon.com/exec/obidos/ASIN/0596008740/ref=nosim/deliciousmons-20, Prefactoring: Extreme Abstraction  Extreme Separation  Extreme Readability, Ken Pugh  
+http://www.amazon.co.uk/exec/obidos/ASIN/0136079385/ref=nosim/deliciousmons-21, The Principles of Distributed Databases, M. Tamer Ozsu  Patrick Valduriez  
+http://www.amazon.com/exec/obidos/ASIN/1558604154/ref=nosim/deliciousmons-20, Principles of Transaction Processing for the Systems Professional, Philip A. Bernstein  Eric Newcomer  
+http://www.amazon.com/exec/obidos/ASIN/0201788934/ref=nosim/deliciousmons-20, Principles of the Business Rule Approach, Ronald G. Ross  
+http://www.amazon.com/exec/obidos/ASIN/0262013193/ref=nosim/deliciousmons-20, Probabilistic Graphical Models: Principles and Techniques, Daphne Koller  Nir Friedman  
+http://www.amazon.com/exec/obidos/ASIN/0471333417/ref=nosim/deliciousmons-20, Probability and Statistics with Reliability  Queueing  and Computer Science Applications  2nd Edition, Kishor Shridharbhai Trivedi  
+http://www.amazon.com/exec/obidos/ASIN/B000PGHBQ0/ref=nosim/deliciousmons-20, Problem-Solving Methods in Artificial Intelligence, nils nilsson  
+http://www.amazon.com/exec/obidos/ASIN/0596529325/ref=nosim/deliciousmons-20, Programming Collective Intelligence: Building Smart Web 2.0 Applications, Toby Segaran  
+http://www.amazon.com/exec/obidos/ASIN/193435600X/ref=nosim/deliciousmons-20, Programming Erlang: Software for a Concurrent World, Joe Armstrong  
+http://www.amazon.com/exec/obidos/ASIN/B001M9B084/ref=nosim/deliciousmons-20, Programming Language Concepts 2/E, Carlo; Jazayeri  Mehdi Ghezzi  
+http://www.amazon.com/exec/obidos/ASIN/0470853204/ref=nosim/deliciousmons-20, Programming Language Design Concepts, David A. Watt  
+http://www.amazon.com/exec/obidos/ASIN/0123745144/ref=nosim/deliciousmons-20, Programming Language Pragmatics  Third Edition, Michael L. Scott  
+http://www.amazon.com/exec/obidos/ASIN/0130257869/ref=nosim/deliciousmons-20, Programming Language Processors in Java: Compilers and Interpreters, David Watt  Deryck Brown  
+http://www.amazon.com/exec/obidos/ASIN/0072866098/ref=nosim/deliciousmons-20, Programming Languages, Allen Tucker  Robert Noonan  
+http://www.amazon.com/exec/obidos/ASIN/0201590654/ref=nosim/deliciousmons-20, Programming Languages: Concepts and Constructs, Ravi Sethi  
+http://www.amazon.com/exec/obidos/ASIN/0534932770/ref=nosim/deliciousmons-20, Programming Languages: Principles and Practice, Kenneth C. Louden  
+http://www.amazon.com/exec/obidos/ASIN/0070546665/ref=nosim/deliciousmons-20, Programming Paradigms in Lisp, Rajeev Sangal  
+http://www.amazon.com/exec/obidos/ASIN/0387983201/ref=nosim/deliciousmons-20, Programming and Meta-Programming in Scheme, Jon Pearce  
+http://www.amazon.com/exec/obidos/ASIN/0201416212/ref=nosim/deliciousmons-20, Programming for Artificial Intelligence: Methods  Tools  and Applications, Wolfgang Kreutzer  Bruce McKenzie  
+http://www.amazon.com/exec/obidos/ASIN/0521692695/ref=nosim/deliciousmons-20, Programming in Haskell, Graham Hutton  
+http://www.amazon.com/exec/obidos/ASIN/0262550172/ref=nosim/deliciousmons-20, Programming in Scheme: Trade Edition, Michael Eisenberg  Harold Abelson  
+http://www.amazon.com/exec/obidos/ASIN/0932633447/ref=nosim/deliciousmons-20, Project Retrospectives: A Handbook for Team Reviews, Norman L. Kerth  
+http://www.amazon.com/exec/obidos/ASIN/0201403757/ref=nosim/deliciousmons-20, Prolog Programming for Artificial Intelligence, Ivan Bratko  
+http://www.amazon.com/exec/obidos/ASIN/B000OOQNX0/ref=nosim/deliciousmons-20, Prolog Programming: Applications for Database Systems  Expert Systems  and Natural Language Systems, Claudia Marcus  
+http://www.amazon.com/exec/obidos/ASIN/0521663504/ref=nosim/deliciousmons-20, Purely Functional Data Structures, Chris Okasaki  
+http://www.amazon.com/exec/obidos/ASIN/0471491101/ref=nosim/deliciousmons-20, Queueing Systems. Volume 1: Theory, Leonard Kleinrock  
+http://www.amazon.com/exec/obidos/ASIN/0471491101/ref=nosim/deliciousmons-20, Queueing Systems. Volume 1: Theory, Leonard Kleinrock  
+http://www.amazon.com/exec/obidos/ASIN/0596805829/ref=nosim/deliciousmons-20, REST in Practice: Hypermedia and Systems Architecture, Jim Webber  Savas Parastatidis  Ian Robinson  
+http://www.amazon.com/exec/obidos/ASIN/0130094862/ref=nosim/deliciousmons-20, Radical Project Management, Rob Thomsett  
+http://www.amazon.com/exec/obidos/ASIN/0262562146/ref=nosim/deliciousmons-20, The Reasoned Schemer, Daniel P. Friedman  William E. Byrd  Oleg Kiselyov  
+http://www.amazon.com/exec/obidos/ASIN/0201485672/ref=nosim/deliciousmons-20, Refactoring: Improving the Design of Existing Code, Martin Fowler  Kent Beck  John Brant  William Opdyke  Don Roberts  
+http://www.amazon.com/exec/obidos/ASIN/0262193981/ref=nosim/deliciousmons-20, Reinforcement Learning: An Introduction, Richard S. Sutton  Andrew G. Barto  
+http://www.amazon.com/exec/obidos/ASIN/0470023686/ref=nosim/deliciousmons-20, Scenarios: The Art of Strategic Conversation, Kees van der Heijden  
+http://www.amazon.com/exec/obidos/ASIN/026251298X/ref=nosim/deliciousmons-20, The Scheme Programming Language  4th Edition, R. Kent Dybvig  
+http://www.amazon.com/exec/obidos/ASIN/0072389893/ref=nosim/deliciousmons-20, Scheme and the Art of Programming, George Springer  Daniel Friedman  
+http://www.amazon.com/exec/obidos/ASIN/0262691914/ref=nosim/deliciousmons-20, The Sciences of the Artificial - 3rd Edition, Herbert A. Simon  
+http://www.amazon.com/exec/obidos/ASIN/026256100X/ref=nosim/deliciousmons-20, The Seasoned Schemer, Daniel P. Friedman  Matthias Felleisen  
+http://www.amazon.com/exec/obidos/ASIN/0201136880/ref=nosim/deliciousmons-20, Smalltalk 80: The Language, Adele Goldberg  David Robson  
+http://www.amazon.com/exec/obidos/ASIN/0262522349/ref=nosim/deliciousmons-20, Software Agents, Jeffrey M. Bradshaw  
+http://www.amazon.com/exec/obidos/ASIN/0471627658/ref=nosim/deliciousmons-20, Software Reliability: Principles and Practices, Glenford J. Myers  
+http://www.amazon.com/exec/obidos/ASIN/020103669X/ref=nosim/deliciousmons-20, Software Tools, Brian W. Kernighan  P. J. Plauger  
+http://www.amazon.com/exec/obidos/ASIN/0130280283/ref=nosim/deliciousmons-20, Squeak: Object-Oriented Design with Multimedia Applications, Mark J. Guzdial  
+http://www.amazon.com/exec/obidos/ASIN/0130280917/ref=nosim/deliciousmons-20, Squeak: Open Personal Computing and Multimedia, Mark J. Guzdial  Kimberly M. Rose  
+http://www.amazon.com/exec/obidos/ASIN/0262510871/ref=nosim/deliciousmons-20, Structure and Interpretation of Computer Programs - 2nd Edition, Harold Abelson  Gerald Jay Sussman  
+http://www.amazon.com/exec/obidos/ASIN/3937526005/ref=nosim/deliciousmons-20, Successful Lisp: How to Understand and Use Common Lisp, David B. Lamkins  
+http://www.amazon.com/exec/obidos/ASIN/0471607711/ref=nosim/deliciousmons-20, Symbolic Computing With Lisp and Prolog, Robert A. Mueller  Rex L. Page  
+http://www.amazon.com/exec/obidos/ASIN/0262100770/ref=nosim/deliciousmons-20, Systems That Learn - 2nd Edition: An Introduction to Learning Theory, Sanjay Jain  Daniel N. Osherson  James S. Royer  Arun Sharma  
+http://www.amazon.com/exec/obidos/ASIN/0201633469/ref=nosim/deliciousmons-20, TCP/IP Illustrated  Vol. 1: The Protocols, W. Richard Stevens  
+http://www.amazon.com/exec/obidos/ASIN/1584504609/ref=nosim/deliciousmons-20, Text Mining Application Programming, Manu Konchady  
+http://www.amazon.com/exec/obidos/ASIN/0716707233/ref=nosim/deliciousmons-20, The Thinking Computer: Mind Inside Matter, Bertram Raphael  
+http://www.amazon.com/exec/obidos/ASIN/0884271587/ref=nosim/deliciousmons-20, Throughput Accounting, Thomas Corbett  
+http://www.amazon.com/exec/obidos/ASIN/019286095X/ref=nosim/deliciousmons-20, To Mock a Mockingbird: And Other Logic Puzzles, Raymond M. Smullyan  
+http://www.amazon.com/exec/obidos/ASIN/0070587477/ref=nosim/deliciousmons-20, The Toyota Way: 14 Management Principles from the World's Greatest Manufacturer/International Edition, Jeffrey K. Liker  
+http://www.amazon.com/exec/obidos/ASIN/0262162091/ref=nosim/deliciousmons-20, Types and Programming Languages, Benjamin C. Pierce  
+http://www.amazon.com/exec/obidos/ASIN/9814021725/ref=nosim/deliciousmons-20, The Unknowable, Gregory J. Chaitin  
+http://www.amazon.com/exec/obidos/ASIN/0201710889/ref=nosim/deliciousmons-20, Web Protocols and Practice: HTTP/1.1  Networking Protocols  Caching  and Traffic Measurement, Balachander Krishnamurthy  Jennifer Rexford  
+http://www.amazon.com/exec/obidos/ASIN/093263334X/ref=nosim/deliciousmons-20, Why Does Software Cost So Much?: And Other Puzzles of the Information Age, Tom Demarco  
+http://www.amazon.com/exec/obidos/ASIN/1556155514/ref=nosim/deliciousmons-20, Writing Solid Code, Steve Maguire  
